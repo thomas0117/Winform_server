@@ -1,0 +1,95 @@
+[4136] 2015/10/07 17:46:38.700 API InitInstance 
+[4136] 2015/10/07 17:46:38.869 SKQuoteLib_Initialize ¡GB222875498
+[4136] 2015/10/07 17:46:38.870 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[4136] 2015/10/07 17:46:41.281 SKQuoteLib_Initialize  SUCCESS 
+[4136] 2015/10/07 17:46:41.769 SKQuoteLib_EnterMonitor IP¡Ginfo12.capital.com.tw
+[4136] 2015/10/07 17:46:41.778 SKQuoteLib_AttachConnectionCallBack 
+[4136] 2015/10/07 17:46:41.779 SKQuoteLib_AttachQuoteCallBack 
+[4136] 2015/10/07 17:46:47.453 SocketConnect Type¡G100  ErrorCode¡G0
+[4136] 2015/10/07 17:46:50.392 Stocks Ready
+[4136] 2015/10/07 17:46:51.643 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:46:51.643 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:46:52.485 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:46:52.485 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:46:53.500 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:46:53.500 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:46:53.502 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX09,TX10,TX12,TX03,TX06,TE00,TE09,TE10,TE12,TE03,TE06,TF00,TF09,TF10,TF12,TF03,TF06)
+[4136] 2015/10/07 17:46:53.503 Divide StockNo {TSEA}
+[4136] 2015/10/07 17:46:53.503 Add Basket MarketNo¡G0 StockIdx¡G12637
+[4136] 2015/10/07 17:46:53.504 Divide StockNo {TX00}
+[4136] 2015/10/07 17:46:53.504 Add Basket MarketNo¡G2 StockIdx¡G0
+[4136] 2015/10/07 17:46:53.505 Divide StockNo {TX09}
+[4136] 2015/10/07 17:46:53.505 Stock Not Exist 
+[4136] 2015/10/07 17:46:53.506 Divide StockNo {TX10}
+[4136] 2015/10/07 17:46:53.506 Add Basket MarketNo¡G2 StockIdx¡G1
+[4136] 2015/10/07 17:46:53.507 Divide StockNo {TX12}
+[4136] 2015/10/07 17:46:53.507 Add Basket MarketNo¡G2 StockIdx¡G3
+[4136] 2015/10/07 17:46:53.508 Divide StockNo {TX03}
+[4136] 2015/10/07 17:46:53.508 Add Basket MarketNo¡G2 StockIdx¡G4
+[4136] 2015/10/07 17:46:53.509 Divide StockNo {TX06}
+[4136] 2015/10/07 17:46:53.509 Add Basket MarketNo¡G2 StockIdx¡G5
+[4136] 2015/10/07 17:46:53.509 Divide StockNo {TE00}
+[4136] 2015/10/07 17:46:53.510 Add Basket MarketNo¡G2 StockIdx¡G16
+[4136] 2015/10/07 17:46:53.510 Divide StockNo {TE09}
+[4136] 2015/10/07 17:46:53.511 Stock Not Exist 
+[4136] 2015/10/07 17:46:53.511 Divide StockNo {TE10}
+[4136] 2015/10/07 17:46:53.512 Add Basket MarketNo¡G2 StockIdx¡G17
+[4136] 2015/10/07 17:46:53.512 Divide StockNo {TE12}
+[4136] 2015/10/07 17:46:53.513 Add Basket MarketNo¡G2 StockIdx¡G19
+[4136] 2015/10/07 17:46:53.513 Divide StockNo {TE03}
+[4136] 2015/10/07 17:46:53.514 Add Basket MarketNo¡G2 StockIdx¡G20
+[4136] 2015/10/07 17:46:53.514 Divide StockNo {TE06}
+[4136] 2015/10/07 17:46:53.515 Add Basket MarketNo¡G2 StockIdx¡G21
+[4136] 2015/10/07 17:46:53.515 Divide StockNo {TF00}
+[4136] 2015/10/07 17:46:53.516 Add Basket MarketNo¡G2 StockIdx¡G22
+[4136] 2015/10/07 17:46:53.516 Divide StockNo {TF09}
+[4136] 2015/10/07 17:46:53.517 Stock Not Exist 
+[4136] 2015/10/07 17:46:53.517 Divide StockNo {TF10}
+[4136] 2015/10/07 17:46:53.517 Add Basket MarketNo¡G2 StockIdx¡G23
+[4136] 2015/10/07 17:46:53.518 Divide StockNo {TF12}
+[4136] 2015/10/07 17:46:53.518 Add Basket MarketNo¡G2 StockIdx¡G25
+[4136] 2015/10/07 17:46:53.519 Divide StockNo {TF03}
+[4136] 2015/10/07 17:46:53.519 Add Basket MarketNo¡G2 StockIdx¡G26
+[4136] 2015/10/07 17:46:53.520 Divide StockNo {TF06}
+[4136] 2015/10/07 17:46:53.520 Add Basket MarketNo¡G2 StockIdx¡G27
+[4136] 2015/10/07 17:46:53.521 SKQuoteLib_RequestStocks Page 1
+[4136] 2015/10/07 17:46:54.513 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:46:54.513 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:46:55.527 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:46:55.527 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:46:56.541 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:46:56.541 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:46:57.556 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:46:57.556 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:46:58.570 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:46:58.570 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:46:59.584 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:46:59.584 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:00.598 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:00.599 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:01.612 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:01.612 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:02.633 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:02.634 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:03.640 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:03.640 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:04.654 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:04.654 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:05.668 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:05.668 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:06.682 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:06.682 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:07.696 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:07.696 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:08.710 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:08.710 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:09.724 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:09.724 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:10.738 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:10.738 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:11.752 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:11.752 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:12.765 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:12.765 SKQuoteLib_GetServerTime ¡G
+[4136] 2015/10/07 17:47:13.779 SKQuoteLib_RequestServerTime ¡G
+[4136] 2015/10/07 17:47:13.779 SKQuoteLib_GetServerTime ¡G

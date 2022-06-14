@@ -1,0 +1,47 @@
+c:\users\bear\documents\visual studio 2013\Projects\server\server\bin\x86\Debug\server.exe.config
+c:\users\bear\documents\visual studio 2013\Projects\server\server\bin\x86\Debug\server.exe
+c:\users\bear\documents\visual studio 2013\Projects\server\server\bin\x86\Debug\server.pdb
+c:\users\bear\documents\visual studio 2013\Projects\server\server\obj\x86\Debug\server.Properties.Resources.resources
+c:\users\bear\documents\visual studio 2013\Projects\server\server\obj\x86\Debug\server.csproj.GenerateResource.Cache
+c:\users\bear\documents\visual studio 2013\Projects\server\server\obj\x86\Debug\server.exe
+c:\users\bear\documents\visual studio 2013\Projects\server\server\obj\x86\Debug\server.pdb
+C:\Users\bear\Documents\Visual Studio 2013\Projects\server\server\obj\x86\Debug\server.Form1.resources
+C:\Users\bear\Documents\Visual Studio 2013\Projects\server\server\obj\x86\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\server.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\obj\x86\Debug\server.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\obj\x86\Debug\server.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\server.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\server.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\mscorlib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\zh-Hant\mscorlib.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\normidna.nlp
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\normnfc.nlp
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\normnfd.nlp
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\normnfkc.nlp
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\bin\x86\Debug\normnfkd.nlp
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\obj\x86\Debug\server.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\obj\x86\Debug\server.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\server\server\obj\x86\Debug\server.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\server\server\bin\x86\Debug\server.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\server\server\obj\x86\Debug\server.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\server\server\obj\x86\Debug\server.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\server\server\bin\x86\Debug\server.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\server\server\bin\x86\Debug\server.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\server\server\obj\x86\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\server\server\obj\x86\Debug\server.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\server\server\obj\x86\Debug\server.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\server\server\obj\x86\Debug\server.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\server\server\bin\x86\Debug\MySql.Data.dll
+C:\Users\Thomas\Desktop\coding\server\server\bin\x86\Debug\server.exe.config
+C:\Users\Thomas\Desktop\coding\server\server\bin\x86\Debug\server.exe
+C:\Users\Thomas\Desktop\coding\server\server\bin\x86\Debug\server.pdb
+C:\Users\Thomas\Desktop\coding\server\server\obj\x86\Debug\server.Form1.resources
+C:\Users\Thomas\Desktop\coding\server\server\obj\x86\Debug\server.Properties.Resources.resources
+C:\Users\Thomas\Desktop\coding\server\server\obj\x86\Debug\server.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\coding\server\server\obj\x86\Debug\server.csproj.CopyComplete
+C:\Users\Thomas\Desktop\coding\server\server\obj\x86\Debug\server.exe
+C:\Users\Thomas\Desktop\coding\server\server\obj\x86\Debug\server.pdb
+C:\Users\Thomas\Desktop\coding\server\server\obj\x86\Debug\server.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\coding\server\server\obj\x86\Debug\server.csproj.CoreCompileInputs.cache
