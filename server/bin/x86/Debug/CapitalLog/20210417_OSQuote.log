@@ -1,7 +1,0 @@
-[14480] 2021/04/17 06:02:39.824 API InitInstance 
-[14480] 2021/04/17 06:02:39.827 SKOSQuoteLib_Initialize  ID¡GB222875498
-[14480] 2021/04/17 06:02:39.827 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
-[14480] 2021/04/17 06:02:39.918 SKOSQuoteLib_Initialize  Server¡Ghttps://order3.capital.com.tw/
-[14480] 2021/04/17 06:02:40.002 SKOSQuoteLib_AttachConnectCallBack   SK_ERROR_INITIALIZE_FAIL 
-[14480] 2021/04/17 06:02:40.003 SKOSQuoteLib_AttachQuoteCallBack   SK_ERROR_INITIALIZE_FAIL 
-[14480] 2021/04/17 06:02:40.004 SKOSQuoteLib_AttachBest5CallBack   SK_ERROR_INITIALIZE_FAIL 
