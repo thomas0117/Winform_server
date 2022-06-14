@@ -1,0 +1,1323 @@
+[10924] 2016/03/09 09:38:04.407 API InitInstance 
+[10924] 2016/03/09 09:38:04.409 SKQuoteLib_Initialize ¡GB222875498
+[10924] 2016/03/09 09:38:04.410 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[10924] 2016/03/09 09:38:06.361 SKQuoteLib_Initialize  SUCCESS 
+[10924] 2016/03/09 09:38:06.383 SKQuoteLib_EnterMonitor IP¡Ginfo16.capital.com.tw
+[10924] 2016/03/09 09:38:06.386 SKQuoteLib_AttachConnectionCallBack 
+[10924] 2016/03/09 09:38:06.387 SKQuoteLib_AttachQuoteCallBack 
+[10924] 2016/03/09 09:38:06.388 SKQuoteLib_AttachBest5CallBack 
+[10924] 2016/03/09 09:38:08.110 SocketConnect Type¡G100  ErrorCode¡G0
+[10924] 2016/03/09 09:38:09.452 Stocks Ready
+[10924] 2016/03/09 09:38:26.483 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[10924] 2016/03/09 09:38:26.484 Divide StockNo {TSEA}
+[10924] 2016/03/09 09:38:26.485 Add Basket MarketNo¡G0 StockIdx¡G10572
+[10924] 2016/03/09 09:38:26.485 Divide StockNo {TX00}
+[10924] 2016/03/09 09:38:26.485 Add Basket MarketNo¡G2 StockIdx¡G0
+[10924] 2016/03/09 09:38:26.486 Divide StockNo {TX03}
+[10924] 2016/03/09 09:38:26.486 Add Basket MarketNo¡G2 StockIdx¡G1
+[10924] 2016/03/09 09:38:26.487 Divide StockNo {TX04}
+[10924] 2016/03/09 09:38:26.487 Add Basket MarketNo¡G2 StockIdx¡G2
+[10924] 2016/03/09 09:38:26.488 Divide StockNo {TX06}
+[10924] 2016/03/09 09:38:26.488 Add Basket MarketNo¡G2 StockIdx¡G3
+[10924] 2016/03/09 09:38:26.489 Divide StockNo {TX09}
+[10924] 2016/03/09 09:38:26.489 Add Basket MarketNo¡G2 StockIdx¡G4
+[10924] 2016/03/09 09:38:26.490 Divide StockNo {TX12}
+[10924] 2016/03/09 09:38:26.490 Add Basket MarketNo¡G2 StockIdx¡G5
+[10924] 2016/03/09 09:38:26.491 Divide StockNo {TE00}
+[10924] 2016/03/09 09:38:26.491 Add Basket MarketNo¡G2 StockIdx¡G14
+[10924] 2016/03/09 09:38:26.492 Divide StockNo {TE03}
+[10924] 2016/03/09 09:38:26.492 Add Basket MarketNo¡G2 StockIdx¡G15
+[10924] 2016/03/09 09:38:26.493 Divide StockNo {TE04}
+[10924] 2016/03/09 09:38:26.494 Add Basket MarketNo¡G2 StockIdx¡G16
+[10924] 2016/03/09 09:38:26.494 Divide StockNo {TE06}
+[10924] 2016/03/09 09:38:26.494 Add Basket MarketNo¡G2 StockIdx¡G17
+[10924] 2016/03/09 09:38:26.495 Divide StockNo {TE09}
+[10924] 2016/03/09 09:38:26.495 Add Basket MarketNo¡G2 StockIdx¡G18
+[10924] 2016/03/09 09:38:26.496 Divide StockNo {TE12}
+[10924] 2016/03/09 09:38:26.496 Add Basket MarketNo¡G2 StockIdx¡G19
+[10924] 2016/03/09 09:38:26.497 Divide StockNo {TF00}
+[10924] 2016/03/09 09:38:26.498 Add Basket MarketNo¡G2 StockIdx¡G20
+[10924] 2016/03/09 09:38:26.498 Divide StockNo {TF03}
+[10924] 2016/03/09 09:38:26.499 Add Basket MarketNo¡G2 StockIdx¡G21
+[10924] 2016/03/09 09:38:26.499 Divide StockNo {TF04}
+[10924] 2016/03/09 09:38:26.499 Add Basket MarketNo¡G2 StockIdx¡G22
+[10924] 2016/03/09 09:38:26.500 Divide StockNo {TF06}
+[10924] 2016/03/09 09:38:26.501 Add Basket MarketNo¡G2 StockIdx¡G23
+[10924] 2016/03/09 09:38:26.501 Divide StockNo {TF09}
+[10924] 2016/03/09 09:38:26.502 Add Basket MarketNo¡G2 StockIdx¡G24
+[10924] 2016/03/09 09:38:26.502 Divide StockNo {TF12}
+[10924] 2016/03/09 09:38:26.503 Add Basket MarketNo¡G2 StockIdx¡G25
+[10924] 2016/03/09 09:38:26.503 SKQuoteLib_RequestStocks Page 1
+[10924] 2016/03/09 09:38:26.526 SKQuoteLib_RequestTicks (0,TSEA)
+[10924] 2016/03/09 09:38:26.530 SKQuoteLib_RequestTicks (0,TX00)
+[10924] 2016/03/09 09:38:26.532 SKQuoteLib_RequestTicks (0,TX03)
+[10924] 2016/03/09 09:38:26.536 SKQuoteLib_RequestTicks (0,TX04)
+[10924] 2016/03/09 09:38:26.540 SKQuoteLib_RequestTicks (0,TX06)
+[10924] 2016/03/09 09:38:26.542 SKQuoteLib_RequestTicks (0,TX09)
+[10924] 2016/03/09 09:38:26.545 SKQuoteLib_RequestTicks (0,TX12)
+[10924] 2016/03/09 09:38:26.549 SKQuoteLib_RequestTicks (0,TE00)
+[10924] 2016/03/09 09:38:26.550 SKQuoteLib_RequestTicks (0,TE03)
+[10924] 2016/03/09 09:38:26.554 SKQuoteLib_RequestTicks (0,TE04)
+[10924] 2016/03/09 09:38:26.557 SKQuoteLib_RequestTicks (0,TE06)
+[10924] 2016/03/09 09:38:26.559 SKQuoteLib_RequestTicks (0,TE09)
+[10924] 2016/03/09 09:38:26.562 SKQuoteLib_RequestTicks (0,TE12)
+[10924] 2016/03/09 09:38:26.566 SKQuoteLib_RequestTicks (0,TF00)
+[10924] 2016/03/09 09:38:26.567 SKQuoteLib_RequestTicks (0,TF03)
+[10924] 2016/03/09 09:38:26.571 SKQuoteLib_RequestTicks (0,TF04)
+[10924] 2016/03/09 09:38:26.574 SKQuoteLib_RequestTicks (0,TF06)
+[10924] 2016/03/09 09:38:26.576 SKQuoteLib_RequestTicks (0,TF09)
+[10924] 2016/03/09 09:38:26.579 SKQuoteLib_RequestTicks (0,TF12)
+[10924] 2016/03/09 09:39:08.099 Check Link Status 
+[10924] 2016/03/09 09:40:08.099 Check Link Status 
+[6352] 2016/03/09 10:08:45.055 API InitInstance 
+[6352] 2016/03/09 10:08:45.058 SKQuoteLib_Initialize ¡GB222875498
+[6352] 2016/03/09 10:08:45.059 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[6352] 2016/03/09 10:08:45.707 SKQuoteLib_Initialize  SUCCESS 
+[6352] 2016/03/09 10:08:45.729 SKQuoteLib_EnterMonitor IP¡Ginfo10.capital.com.tw
+[6352] 2016/03/09 10:08:45.733 SKQuoteLib_AttachConnectionCallBack 
+[6352] 2016/03/09 10:08:45.734 SKQuoteLib_AttachQuoteCallBack 
+[6352] 2016/03/09 10:08:45.734 SKQuoteLib_AttachBest5CallBack 
+[6352] 2016/03/09 10:08:46.505 SocketConnect Type¡G100  ErrorCode¡G0
+[6352] 2016/03/09 10:08:47.930 Stocks Ready
+[6352] 2016/03/09 10:09:05.166 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[6352] 2016/03/09 10:09:05.167 Divide StockNo {TSEA}
+[6352] 2016/03/09 10:09:05.168 Add Basket MarketNo¡G0 StockIdx¡G10572
+[6352] 2016/03/09 10:09:05.168 Divide StockNo {TX00}
+[6352] 2016/03/09 10:09:05.169 Add Basket MarketNo¡G2 StockIdx¡G0
+[6352] 2016/03/09 10:09:05.169 Divide StockNo {TX03}
+[6352] 2016/03/09 10:09:05.169 Add Basket MarketNo¡G2 StockIdx¡G1
+[6352] 2016/03/09 10:09:05.170 Divide StockNo {TX04}
+[6352] 2016/03/09 10:09:05.170 Add Basket MarketNo¡G2 StockIdx¡G2
+[6352] 2016/03/09 10:09:05.171 Divide StockNo {TX06}
+[6352] 2016/03/09 10:09:05.171 Add Basket MarketNo¡G2 StockIdx¡G3
+[6352] 2016/03/09 10:09:05.172 Divide StockNo {TX09}
+[6352] 2016/03/09 10:09:05.172 Add Basket MarketNo¡G2 StockIdx¡G4
+[6352] 2016/03/09 10:09:05.172 Divide StockNo {TX12}
+[6352] 2016/03/09 10:09:05.173 Add Basket MarketNo¡G2 StockIdx¡G5
+[6352] 2016/03/09 10:09:05.173 Divide StockNo {TE00}
+[6352] 2016/03/09 10:09:05.174 Add Basket MarketNo¡G2 StockIdx¡G14
+[6352] 2016/03/09 10:09:05.174 Divide StockNo {TE03}
+[6352] 2016/03/09 10:09:05.175 Add Basket MarketNo¡G2 StockIdx¡G15
+[6352] 2016/03/09 10:09:05.175 Divide StockNo {TE04}
+[6352] 2016/03/09 10:09:05.176 Add Basket MarketNo¡G2 StockIdx¡G16
+[6352] 2016/03/09 10:09:05.176 Divide StockNo {TE06}
+[6352] 2016/03/09 10:09:05.177 Add Basket MarketNo¡G2 StockIdx¡G17
+[6352] 2016/03/09 10:09:05.177 Divide StockNo {TE09}
+[6352] 2016/03/09 10:09:05.177 Add Basket MarketNo¡G2 StockIdx¡G18
+[6352] 2016/03/09 10:09:05.178 Divide StockNo {TE12}
+[6352] 2016/03/09 10:09:05.178 Add Basket MarketNo¡G2 StockIdx¡G19
+[6352] 2016/03/09 10:09:05.179 Divide StockNo {TF00}
+[6352] 2016/03/09 10:09:05.179 Add Basket MarketNo¡G2 StockIdx¡G20
+[6352] 2016/03/09 10:09:05.180 Divide StockNo {TF03}
+[6352] 2016/03/09 10:09:05.180 Add Basket MarketNo¡G2 StockIdx¡G21
+[6352] 2016/03/09 10:09:05.181 Divide StockNo {TF04}
+[6352] 2016/03/09 10:09:05.181 Add Basket MarketNo¡G2 StockIdx¡G22
+[6352] 2016/03/09 10:09:05.182 Divide StockNo {TF06}
+[6352] 2016/03/09 10:09:05.182 Add Basket MarketNo¡G2 StockIdx¡G23
+[6352] 2016/03/09 10:09:05.182 Divide StockNo {TF09}
+[6352] 2016/03/09 10:09:05.183 Add Basket MarketNo¡G2 StockIdx¡G24
+[6352] 2016/03/09 10:09:05.183 Divide StockNo {TF12}
+[6352] 2016/03/09 10:09:05.184 Add Basket MarketNo¡G2 StockIdx¡G25
+[6352] 2016/03/09 10:09:05.184 SKQuoteLib_RequestStocks Page 1
+[6352] 2016/03/09 10:09:05.204 SKQuoteLib_RequestTicks (0,TSEA)
+[6352] 2016/03/09 10:09:05.207 SKQuoteLib_RequestTicks (0,TX00)
+[6352] 2016/03/09 10:09:05.209 SKQuoteLib_RequestTicks (0,TX03)
+[6352] 2016/03/09 10:09:05.212 SKQuoteLib_RequestTicks (0,TX04)
+[6352] 2016/03/09 10:09:05.216 SKQuoteLib_RequestTicks (0,TX06)
+[6352] 2016/03/09 10:09:05.217 SKQuoteLib_RequestTicks (0,TX09)
+[6352] 2016/03/09 10:09:05.220 SKQuoteLib_RequestTicks (0,TX12)
+[6352] 2016/03/09 10:09:05.224 SKQuoteLib_RequestTicks (0,TE00)
+[6352] 2016/03/09 10:09:05.225 SKQuoteLib_RequestTicks (0,TE03)
+[6352] 2016/03/09 10:09:05.229 SKQuoteLib_RequestTicks (0,TE04)
+[6352] 2016/03/09 10:09:05.232 SKQuoteLib_RequestTicks (0,TE06)
+[6352] 2016/03/09 10:09:05.233 SKQuoteLib_RequestTicks (0,TE09)
+[6352] 2016/03/09 10:09:05.236 SKQuoteLib_RequestTicks (0,TE12)
+[6352] 2016/03/09 10:09:05.240 SKQuoteLib_RequestTicks (0,TF00)
+[6352] 2016/03/09 10:09:05.241 SKQuoteLib_RequestTicks (0,TF03)
+[6352] 2016/03/09 10:09:05.245 SKQuoteLib_RequestTicks (0,TF04)
+[6352] 2016/03/09 10:09:05.248 SKQuoteLib_RequestTicks (0,TF06)
+[6352] 2016/03/09 10:09:05.249 SKQuoteLib_RequestTicks (0,TF09)
+[6352] 2016/03/09 10:09:05.253 SKQuoteLib_RequestTicks (0,TF12)
+[6352] 2016/03/09 10:09:46.505 Check Link Status 
+[6352] 2016/03/09 10:10:46.507 Check Link Status 
+[588] 2016/03/09 10:12:40.299 API InitInstance 
+[588] 2016/03/09 10:12:40.301 SKQuoteLib_Initialize ¡GB222875498
+[588] 2016/03/09 10:12:40.302 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[588] 2016/03/09 10:12:42.039 SKQuoteLib_Initialize  SUCCESS 
+[588] 2016/03/09 10:12:42.058 SKQuoteLib_EnterMonitor IP¡Ginfo21.capital.com.tw
+[588] 2016/03/09 10:12:42.060 SKQuoteLib_AttachConnectionCallBack 
+[588] 2016/03/09 10:12:42.061 SKQuoteLib_AttachQuoteCallBack 
+[588] 2016/03/09 10:12:42.062 SKQuoteLib_AttachBest5CallBack 
+[588] 2016/03/09 10:12:42.847 SocketConnect Type¡G100  ErrorCode¡G0
+[588] 2016/03/09 10:12:44.229 Stocks Ready
+[588] 2016/03/09 10:13:01.468 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[588] 2016/03/09 10:13:01.469 Divide StockNo {TSEA}
+[588] 2016/03/09 10:13:01.469 Add Basket MarketNo¡G0 StockIdx¡G10572
+[588] 2016/03/09 10:13:01.470 Divide StockNo {TX00}
+[588] 2016/03/09 10:13:01.470 Add Basket MarketNo¡G2 StockIdx¡G0
+[588] 2016/03/09 10:13:01.471 Divide StockNo {TX03}
+[588] 2016/03/09 10:13:01.471 Add Basket MarketNo¡G2 StockIdx¡G1
+[588] 2016/03/09 10:13:01.472 Divide StockNo {TX04}
+[588] 2016/03/09 10:13:01.472 Add Basket MarketNo¡G2 StockIdx¡G2
+[588] 2016/03/09 10:13:01.472 Divide StockNo {TX06}
+[588] 2016/03/09 10:13:01.473 Add Basket MarketNo¡G2 StockIdx¡G3
+[588] 2016/03/09 10:13:01.473 Divide StockNo {TX09}
+[588] 2016/03/09 10:13:01.474 Add Basket MarketNo¡G2 StockIdx¡G4
+[588] 2016/03/09 10:13:01.474 Divide StockNo {TX12}
+[588] 2016/03/09 10:13:01.475 Add Basket MarketNo¡G2 StockIdx¡G5
+[588] 2016/03/09 10:13:01.475 Divide StockNo {TE00}
+[588] 2016/03/09 10:13:01.476 Add Basket MarketNo¡G2 StockIdx¡G14
+[588] 2016/03/09 10:13:01.476 Divide StockNo {TE03}
+[588] 2016/03/09 10:13:01.477 Add Basket MarketNo¡G2 StockIdx¡G15
+[588] 2016/03/09 10:13:01.477 Divide StockNo {TE04}
+[588] 2016/03/09 10:13:01.477 Add Basket MarketNo¡G2 StockIdx¡G16
+[588] 2016/03/09 10:13:01.478 Divide StockNo {TE06}
+[588] 2016/03/09 10:13:01.478 Add Basket MarketNo¡G2 StockIdx¡G17
+[588] 2016/03/09 10:13:01.479 Divide StockNo {TE09}
+[588] 2016/03/09 10:13:01.479 Add Basket MarketNo¡G2 StockIdx¡G18
+[588] 2016/03/09 10:13:01.480 Divide StockNo {TE12}
+[588] 2016/03/09 10:13:01.480 Add Basket MarketNo¡G2 StockIdx¡G19
+[588] 2016/03/09 10:13:01.481 Divide StockNo {TF00}
+[588] 2016/03/09 10:13:01.481 Add Basket MarketNo¡G2 StockIdx¡G20
+[588] 2016/03/09 10:13:01.482 Divide StockNo {TF03}
+[588] 2016/03/09 10:13:01.482 Add Basket MarketNo¡G2 StockIdx¡G21
+[588] 2016/03/09 10:13:01.482 Divide StockNo {TF04}
+[588] 2016/03/09 10:13:01.483 Add Basket MarketNo¡G2 StockIdx¡G22
+[588] 2016/03/09 10:13:01.483 Divide StockNo {TF06}
+[588] 2016/03/09 10:13:01.484 Add Basket MarketNo¡G2 StockIdx¡G23
+[588] 2016/03/09 10:13:01.484 Divide StockNo {TF09}
+[588] 2016/03/09 10:13:01.485 Add Basket MarketNo¡G2 StockIdx¡G24
+[588] 2016/03/09 10:13:01.485 Divide StockNo {TF12}
+[588] 2016/03/09 10:13:01.486 Add Basket MarketNo¡G2 StockIdx¡G25
+[588] 2016/03/09 10:13:01.486 SKQuoteLib_RequestStocks Page 1
+[588] 2016/03/09 10:13:01.513 SKQuoteLib_RequestTicks (0,TSEA)
+[588] 2016/03/09 10:13:01.515 SKQuoteLib_RequestTicks (0,TX00)
+[588] 2016/03/09 10:13:01.519 SKQuoteLib_RequestTicks (0,TX03)
+[588] 2016/03/09 10:13:01.523 SKQuoteLib_RequestTicks (0,TX04)
+[588] 2016/03/09 10:13:01.524 SKQuoteLib_RequestTicks (0,TX06)
+[588] 2016/03/09 10:13:01.528 SKQuoteLib_RequestTicks (0,TX09)
+[588] 2016/03/09 10:13:01.531 SKQuoteLib_RequestTicks (0,TX12)
+[588] 2016/03/09 10:13:01.532 SKQuoteLib_RequestTicks (0,TE00)
+[588] 2016/03/09 10:13:01.536 SKQuoteLib_RequestTicks (0,TE03)
+[588] 2016/03/09 10:13:01.539 SKQuoteLib_RequestTicks (0,TE04)
+[588] 2016/03/09 10:13:01.540 SKQuoteLib_RequestTicks (0,TE06)
+[588] 2016/03/09 10:13:01.544 SKQuoteLib_RequestTicks (0,TE09)
+[588] 2016/03/09 10:13:01.549 SKQuoteLib_RequestTicks (0,TE12)
+[588] 2016/03/09 10:13:01.550 SKQuoteLib_RequestTicks (0,TF00)
+[588] 2016/03/09 10:13:01.553 SKQuoteLib_RequestTicks (0,TF03)
+[588] 2016/03/09 10:13:01.557 SKQuoteLib_RequestTicks (0,TF04)
+[588] 2016/03/09 10:13:01.558 SKQuoteLib_RequestTicks (0,TF06)
+[588] 2016/03/09 10:13:01.561 SKQuoteLib_RequestTicks (0,TF09)
+[588] 2016/03/09 10:13:01.565 SKQuoteLib_RequestTicks (0,TF12)
+[588] 2016/03/09 10:13:42.833 Check Link Status 
+[588] 2016/03/09 10:14:42.834 Check Link Status 
+[588] 2016/03/09 10:15:42.835 Check Link Status 
+[588] 2016/03/09 10:16:42.834 Check Link Status 
+[588] 2016/03/09 10:17:42.833 Check Link Status 
+[588] 2016/03/09 10:18:42.834 Check Link Status 
+[588] 2016/03/09 10:19:42.835 Check Link Status 
+[588] 2016/03/09 10:20:42.836 Check Link Status 
+[588] 2016/03/09 10:21:42.835 Check Link Status 
+[588] 2016/03/09 10:22:42.839 Check Link Status 
+[588] 2016/03/09 10:23:42.835 Check Link Status 
+[588] 2016/03/09 10:24:45.295 Check Link Status 
+[588] 2016/03/09 10:25:42.834 Check Link Status 
+[3300] 2016/03/09 10:26:25.111 API InitInstance 
+[3300] 2016/03/09 10:26:25.114 SKQuoteLib_Initialize ¡GB222875498
+[3300] 2016/03/09 10:26:25.114 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[3068] 2016/03/09 10:27:59.066 API InitInstance 
+[3068] 2016/03/09 10:27:59.069 SKQuoteLib_Initialize ¡GB222875498
+[3068] 2016/03/09 10:27:59.069 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[3068] 2016/03/09 10:27:59.663 SKQuoteLib_Initialize  SUCCESS 
+[3068] 2016/03/09 10:27:59.682 SKQuoteLib_EnterMonitor IP¡Ginfo21.capital.com.tw
+[3068] 2016/03/09 10:27:59.684 SKQuoteLib_AttachConnectionCallBack 
+[3068] 2016/03/09 10:27:59.684 SKQuoteLib_AttachQuoteCallBack 
+[3068] 2016/03/09 10:27:59.685 SKQuoteLib_AttachBest5CallBack 
+[3068] 2016/03/09 10:28:01.363 SocketConnect Type¡G100  ErrorCode¡G0
+[3068] 2016/03/09 10:28:03.001 Stocks Ready
+[3068] 2016/03/09 10:28:20.061 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[3068] 2016/03/09 10:28:20.064 Divide StockNo {TSEA}
+[3068] 2016/03/09 10:28:20.064 Add Basket MarketNo¡G0 StockIdx¡G10572
+[3068] 2016/03/09 10:28:20.065 Divide StockNo {TX00}
+[3068] 2016/03/09 10:28:20.065 Add Basket MarketNo¡G2 StockIdx¡G0
+[3068] 2016/03/09 10:28:20.066 Divide StockNo {TX03}
+[3068] 2016/03/09 10:28:20.066 Add Basket MarketNo¡G2 StockIdx¡G1
+[3068] 2016/03/09 10:28:20.067 Divide StockNo {TX04}
+[3068] 2016/03/09 10:28:20.067 Add Basket MarketNo¡G2 StockIdx¡G2
+[3068] 2016/03/09 10:28:20.068 Divide StockNo {TX06}
+[3068] 2016/03/09 10:28:20.068 Add Basket MarketNo¡G2 StockIdx¡G3
+[3068] 2016/03/09 10:28:20.069 Divide StockNo {TX09}
+[3068] 2016/03/09 10:28:20.069 Add Basket MarketNo¡G2 StockIdx¡G4
+[3068] 2016/03/09 10:28:20.069 Divide StockNo {TX12}
+[3068] 2016/03/09 10:28:20.070 Add Basket MarketNo¡G2 StockIdx¡G5
+[3068] 2016/03/09 10:28:20.070 Divide StockNo {TE00}
+[3068] 2016/03/09 10:28:20.071 Add Basket MarketNo¡G2 StockIdx¡G14
+[3068] 2016/03/09 10:28:20.072 Divide StockNo {TE03}
+[3068] 2016/03/09 10:28:20.072 Add Basket MarketNo¡G2 StockIdx¡G15
+[3068] 2016/03/09 10:28:20.072 Divide StockNo {TE04}
+[3068] 2016/03/09 10:28:20.073 Add Basket MarketNo¡G2 StockIdx¡G16
+[3068] 2016/03/09 10:28:20.073 Divide StockNo {TE06}
+[3068] 2016/03/09 10:28:20.074 Add Basket MarketNo¡G2 StockIdx¡G17
+[3068] 2016/03/09 10:28:20.074 Divide StockNo {TE09}
+[3068] 2016/03/09 10:28:20.075 Add Basket MarketNo¡G2 StockIdx¡G18
+[3068] 2016/03/09 10:28:20.075 Divide StockNo {TE12}
+[3068] 2016/03/09 10:28:20.075 Add Basket MarketNo¡G2 StockIdx¡G19
+[3068] 2016/03/09 10:28:20.076 Divide StockNo {TF00}
+[3068] 2016/03/09 10:28:20.077 Add Basket MarketNo¡G2 StockIdx¡G20
+[3068] 2016/03/09 10:28:20.077 Divide StockNo {TF03}
+[3068] 2016/03/09 10:28:20.077 Add Basket MarketNo¡G2 StockIdx¡G21
+[3068] 2016/03/09 10:28:20.078 Divide StockNo {TF04}
+[3068] 2016/03/09 10:28:20.078 Add Basket MarketNo¡G2 StockIdx¡G22
+[3068] 2016/03/09 10:28:20.079 Divide StockNo {TF06}
+[3068] 2016/03/09 10:28:20.079 Add Basket MarketNo¡G2 StockIdx¡G23
+[3068] 2016/03/09 10:28:20.080 Divide StockNo {TF09}
+[3068] 2016/03/09 10:28:20.080 Add Basket MarketNo¡G2 StockIdx¡G24
+[3068] 2016/03/09 10:28:20.081 Divide StockNo {TF12}
+[3068] 2016/03/09 10:28:20.081 Add Basket MarketNo¡G2 StockIdx¡G25
+[3068] 2016/03/09 10:28:20.082 SKQuoteLib_RequestStocks Page 1
+[3068] 2016/03/09 10:28:20.105 SKQuoteLib_RequestTicks (0,TSEA)
+[3068] 2016/03/09 10:28:20.107 SKQuoteLib_RequestTicks (0,TX00)
+[3068] 2016/03/09 10:28:20.111 SKQuoteLib_RequestTicks (0,TX03)
+[3068] 2016/03/09 10:28:20.116 SKQuoteLib_RequestTicks (0,TX04)
+[3068] 2016/03/09 10:28:20.117 SKQuoteLib_RequestTicks (0,TX06)
+[3068] 2016/03/09 10:28:20.121 SKQuoteLib_RequestTicks (0,TX09)
+[3068] 2016/03/09 10:28:20.125 SKQuoteLib_RequestTicks (0,TX12)
+[3068] 2016/03/09 10:28:20.126 SKQuoteLib_RequestTicks (0,TE00)
+[3068] 2016/03/09 10:28:20.130 SKQuoteLib_RequestTicks (0,TE03)
+[3068] 2016/03/09 10:28:20.134 SKQuoteLib_RequestTicks (0,TE04)
+[3068] 2016/03/09 10:28:20.135 SKQuoteLib_RequestTicks (0,TE06)
+[3068] 2016/03/09 10:28:20.139 SKQuoteLib_RequestTicks (0,TE09)
+[3068] 2016/03/09 10:28:20.143 SKQuoteLib_RequestTicks (0,TE12)
+[3068] 2016/03/09 10:28:20.144 SKQuoteLib_RequestTicks (0,TF00)
+[3068] 2016/03/09 10:28:20.148 SKQuoteLib_RequestTicks (0,TF03)
+[3068] 2016/03/09 10:28:20.152 SKQuoteLib_RequestTicks (0,TF04)
+[3068] 2016/03/09 10:28:20.153 SKQuoteLib_RequestTicks (0,TF06)
+[3068] 2016/03/09 10:28:20.157 SKQuoteLib_RequestTicks (0,TF09)
+[3068] 2016/03/09 10:28:20.161 SKQuoteLib_RequestTicks (0,TF12)
+[3068] 2016/03/09 10:29:01.350 Check Link Status 
+[3068] 2016/03/09 10:30:01.349 Check Link Status 
+[3068] 2016/03/09 10:31:01.350 Check Link Status 
+[3068] 2016/03/09 10:32:01.350 Check Link Status 
+[3068] 2016/03/09 10:33:01.349 Check Link Status 
+[3068] 2016/03/09 10:34:01.349 Check Link Status 
+[3068] 2016/03/09 10:35:01.350 Check Link Status 
+[3068] 2016/03/09 10:36:01.350 Check Link Status 
+[3068] 2016/03/09 10:37:01.349 Check Link Status 
+[11600] 2016/03/09 10:41:57.635 API InitInstance 
+[11600] 2016/03/09 10:41:57.638 SKQuoteLib_Initialize ¡GB222875498
+[11600] 2016/03/09 10:41:57.639 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[11600] 2016/03/09 10:41:58.505 SKQuoteLib_Initialize  SUCCESS 
+[11600] 2016/03/09 10:41:58.528 SKQuoteLib_EnterMonitor IP¡Ginfo10.capital.com.tw
+[11600] 2016/03/09 10:41:58.531 SKQuoteLib_AttachConnectionCallBack 
+[11600] 2016/03/09 10:41:58.532 SKQuoteLib_AttachQuoteCallBack 
+[11600] 2016/03/09 10:41:58.532 SKQuoteLib_AttachBest5CallBack 
+[11600] 2016/03/09 10:41:59.364 SocketConnect Type¡G100  ErrorCode¡G0
+[11600] 2016/03/09 10:42:00.736 Stocks Ready
+[11600] 2016/03/09 10:42:18.018 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[11600] 2016/03/09 10:42:18.019 Divide StockNo {TSEA}
+[11600] 2016/03/09 10:42:18.020 Add Basket MarketNo¡G0 StockIdx¡G10572
+[11600] 2016/03/09 10:42:18.020 Divide StockNo {TX00}
+[11600] 2016/03/09 10:42:18.020 Add Basket MarketNo¡G2 StockIdx¡G0
+[11600] 2016/03/09 10:42:18.021 Divide StockNo {TX03}
+[11600] 2016/03/09 10:42:18.021 Add Basket MarketNo¡G2 StockIdx¡G1
+[11600] 2016/03/09 10:42:18.022 Divide StockNo {TX04}
+[11600] 2016/03/09 10:42:18.022 Add Basket MarketNo¡G2 StockIdx¡G2
+[11600] 2016/03/09 10:42:18.023 Divide StockNo {TX06}
+[11600] 2016/03/09 10:42:18.024 Add Basket MarketNo¡G2 StockIdx¡G3
+[11600] 2016/03/09 10:42:18.024 Divide StockNo {TX09}
+[11600] 2016/03/09 10:42:18.025 Add Basket MarketNo¡G2 StockIdx¡G4
+[11600] 2016/03/09 10:42:18.025 Divide StockNo {TX12}
+[11600] 2016/03/09 10:42:18.026 Add Basket MarketNo¡G2 StockIdx¡G5
+[11600] 2016/03/09 10:42:18.026 Divide StockNo {TE00}
+[11600] 2016/03/09 10:42:18.027 Add Basket MarketNo¡G2 StockIdx¡G14
+[11600] 2016/03/09 10:42:18.027 Divide StockNo {TE03}
+[11600] 2016/03/09 10:42:18.028 Add Basket MarketNo¡G2 StockIdx¡G15
+[11600] 2016/03/09 10:42:18.028 Divide StockNo {TE04}
+[11600] 2016/03/09 10:42:18.029 Add Basket MarketNo¡G2 StockIdx¡G16
+[11600] 2016/03/09 10:42:18.029 Divide StockNo {TE06}
+[11600] 2016/03/09 10:42:18.030 Add Basket MarketNo¡G2 StockIdx¡G17
+[11600] 2016/03/09 10:42:18.030 Divide StockNo {TE09}
+[11600] 2016/03/09 10:42:18.031 Add Basket MarketNo¡G2 StockIdx¡G18
+[11600] 2016/03/09 10:42:18.031 Divide StockNo {TE12}
+[11600] 2016/03/09 10:42:18.032 Add Basket MarketNo¡G2 StockIdx¡G19
+[11600] 2016/03/09 10:42:18.033 Divide StockNo {TF00}
+[11600] 2016/03/09 10:42:18.033 Add Basket MarketNo¡G2 StockIdx¡G20
+[11600] 2016/03/09 10:42:18.033 Divide StockNo {TF03}
+[11600] 2016/03/09 10:42:18.034 Add Basket MarketNo¡G2 StockIdx¡G21
+[11600] 2016/03/09 10:42:18.034 Divide StockNo {TF04}
+[11600] 2016/03/09 10:42:18.035 Add Basket MarketNo¡G2 StockIdx¡G22
+[11600] 2016/03/09 10:42:18.035 Divide StockNo {TF06}
+[11600] 2016/03/09 10:42:18.036 Add Basket MarketNo¡G2 StockIdx¡G23
+[11600] 2016/03/09 10:42:18.036 Divide StockNo {TF09}
+[11600] 2016/03/09 10:42:18.037 Add Basket MarketNo¡G2 StockIdx¡G24
+[11600] 2016/03/09 10:42:18.037 Divide StockNo {TF12}
+[11600] 2016/03/09 10:42:18.038 Add Basket MarketNo¡G2 StockIdx¡G25
+[11600] 2016/03/09 10:42:18.038 SKQuoteLib_RequestStocks Page 1
+[11600] 2016/03/09 10:42:18.060 SKQuoteLib_RequestTicks (0,TSEA)
+[11600] 2016/03/09 10:42:18.063 SKQuoteLib_RequestTicks (0,TX00)
+[11600] 2016/03/09 10:42:18.065 SKQuoteLib_RequestTicks (0,TX03)
+[11600] 2016/03/09 10:42:18.070 SKQuoteLib_RequestTicks (0,TX04)
+[11600] 2016/03/09 10:42:18.074 SKQuoteLib_RequestTicks (0,TX06)
+[11600] 2016/03/09 10:42:18.075 SKQuoteLib_RequestTicks (0,TX09)
+[11600] 2016/03/09 10:42:18.079 SKQuoteLib_RequestTicks (0,TX12)
+[11600] 2016/03/09 10:42:18.082 SKQuoteLib_RequestTicks (0,TE00)
+[11600] 2016/03/09 10:42:18.084 SKQuoteLib_RequestTicks (0,TE03)
+[11600] 2016/03/09 10:42:18.088 SKQuoteLib_RequestTicks (0,TE04)
+[11600] 2016/03/09 10:42:18.092 SKQuoteLib_RequestTicks (0,TE06)
+[11600] 2016/03/09 10:42:18.093 SKQuoteLib_RequestTicks (0,TE09)
+[11600] 2016/03/09 10:42:18.097 SKQuoteLib_RequestTicks (0,TE12)
+[11600] 2016/03/09 10:42:18.101 SKQuoteLib_RequestTicks (0,TF00)
+[11600] 2016/03/09 10:42:18.103 SKQuoteLib_RequestTicks (0,TF03)
+[11600] 2016/03/09 10:42:18.106 SKQuoteLib_RequestTicks (0,TF04)
+[11600] 2016/03/09 10:42:18.110 SKQuoteLib_RequestTicks (0,TF06)
+[11600] 2016/03/09 10:42:18.111 SKQuoteLib_RequestTicks (0,TF09)
+[11600] 2016/03/09 10:42:18.115 SKQuoteLib_RequestTicks (0,TF12)
+[6176] 2016/03/09 10:44:38.801 API InitInstance 
+[6176] 2016/03/09 10:44:38.804 SKQuoteLib_Initialize ¡GB222875498
+[6176] 2016/03/09 10:44:38.804 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[6176] 2016/03/09 10:44:39.413 SKQuoteLib_Initialize  SUCCESS 
+[6176] 2016/03/09 10:44:39.433 SKQuoteLib_EnterMonitor IP¡Ginfo21.capital.com.tw
+[6176] 2016/03/09 10:44:39.436 SKQuoteLib_AttachConnectionCallBack 
+[6176] 2016/03/09 10:44:39.436 SKQuoteLib_AttachQuoteCallBack 
+[6176] 2016/03/09 10:44:39.437 SKQuoteLib_AttachBest5CallBack 
+[6176] 2016/03/09 10:44:41.093 SocketConnect Type¡G100  ErrorCode¡G0
+[6176] 2016/03/09 10:44:42.664 Stocks Ready
+[6176] 2016/03/09 10:45:00.222 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[6176] 2016/03/09 10:45:00.223 Divide StockNo {TSEA}
+[6176] 2016/03/09 10:45:00.224 Add Basket MarketNo¡G0 StockIdx¡G10572
+[6176] 2016/03/09 10:45:00.224 Divide StockNo {TX00}
+[6176] 2016/03/09 10:45:00.225 Add Basket MarketNo¡G2 StockIdx¡G0
+[6176] 2016/03/09 10:45:00.225 Divide StockNo {TX03}
+[6176] 2016/03/09 10:45:00.226 Add Basket MarketNo¡G2 StockIdx¡G1
+[6176] 2016/03/09 10:45:00.226 Divide StockNo {TX04}
+[6176] 2016/03/09 10:45:00.227 Add Basket MarketNo¡G2 StockIdx¡G2
+[6176] 2016/03/09 10:45:00.227 Divide StockNo {TX06}
+[6176] 2016/03/09 10:45:00.228 Add Basket MarketNo¡G2 StockIdx¡G3
+[6176] 2016/03/09 10:45:00.228 Divide StockNo {TX09}
+[6176] 2016/03/09 10:45:00.229 Add Basket MarketNo¡G2 StockIdx¡G4
+[6176] 2016/03/09 10:45:00.229 Divide StockNo {TX12}
+[6176] 2016/03/09 10:45:00.230 Add Basket MarketNo¡G2 StockIdx¡G5
+[6176] 2016/03/09 10:45:00.230 Divide StockNo {TE00}
+[6176] 2016/03/09 10:45:00.231 Add Basket MarketNo¡G2 StockIdx¡G14
+[6176] 2016/03/09 10:45:00.231 Divide StockNo {TE03}
+[6176] 2016/03/09 10:45:00.232 Add Basket MarketNo¡G2 StockIdx¡G15
+[6176] 2016/03/09 10:45:00.232 Divide StockNo {TE04}
+[6176] 2016/03/09 10:45:00.233 Add Basket MarketNo¡G2 StockIdx¡G16
+[6176] 2016/03/09 10:45:00.233 Divide StockNo {TE06}
+[6176] 2016/03/09 10:45:00.233 Add Basket MarketNo¡G2 StockIdx¡G17
+[6176] 2016/03/09 10:45:00.234 Divide StockNo {TE09}
+[6176] 2016/03/09 10:45:00.235 Add Basket MarketNo¡G2 StockIdx¡G18
+[6176] 2016/03/09 10:45:00.235 Divide StockNo {TE12}
+[6176] 2016/03/09 10:45:00.236 Add Basket MarketNo¡G2 StockIdx¡G19
+[6176] 2016/03/09 10:45:00.236 Divide StockNo {TF00}
+[6176] 2016/03/09 10:45:00.236 Add Basket MarketNo¡G2 StockIdx¡G20
+[6176] 2016/03/09 10:45:00.237 Divide StockNo {TF03}
+[6176] 2016/03/09 10:45:00.237 Add Basket MarketNo¡G2 StockIdx¡G21
+[6176] 2016/03/09 10:45:00.238 Divide StockNo {TF04}
+[6176] 2016/03/09 10:45:00.238 Add Basket MarketNo¡G2 StockIdx¡G22
+[6176] 2016/03/09 10:45:00.238 Divide StockNo {TF06}
+[6176] 2016/03/09 10:45:00.239 Add Basket MarketNo¡G2 StockIdx¡G23
+[6176] 2016/03/09 10:45:00.240 Divide StockNo {TF09}
+[6176] 2016/03/09 10:45:00.240 Add Basket MarketNo¡G2 StockIdx¡G24
+[6176] 2016/03/09 10:45:00.240 Divide StockNo {TF12}
+[6176] 2016/03/09 10:45:00.241 Add Basket MarketNo¡G2 StockIdx¡G25
+[6176] 2016/03/09 10:45:00.241 SKQuoteLib_RequestStocks Page 1
+[6176] 2016/03/09 10:45:00.273 SKQuoteLib_RequestTicks (0,TSEA)
+[6176] 2016/03/09 10:45:00.278 SKQuoteLib_RequestTicks (0,TX00)
+[6176] 2016/03/09 10:45:00.281 SKQuoteLib_RequestTicks (0,TX03)
+[6176] 2016/03/09 10:45:00.287 SKQuoteLib_RequestTicks (0,TX04)
+[6176] 2016/03/09 10:45:00.297 SKQuoteLib_RequestTicks (0,TX06)
+[6176] 2016/03/09 10:45:00.303 SKQuoteLib_RequestTicks (0,TX09)
+[6176] 2016/03/09 10:45:00.308 SKQuoteLib_RequestTicks (0,TX12)
+[6176] 2016/03/09 10:45:00.310 SKQuoteLib_RequestTicks (0,TE00)
+[6176] 2016/03/09 10:45:00.315 SKQuoteLib_RequestTicks (0,TE03)
+[6176] 2016/03/09 10:45:00.320 SKQuoteLib_RequestTicks (0,TE04)
+[6176] 2016/03/09 10:45:00.323 SKQuoteLib_RequestTicks (0,TE06)
+[6176] 2016/03/09 10:45:00.328 SKQuoteLib_RequestTicks (0,TE09)
+[6176] 2016/03/09 10:45:00.334 SKQuoteLib_RequestTicks (0,TE12)
+[6176] 2016/03/09 10:45:00.336 SKQuoteLib_RequestTicks (0,TF00)
+[6176] 2016/03/09 10:45:00.340 SKQuoteLib_RequestTicks (0,TF03)
+[6176] 2016/03/09 10:45:00.344 SKQuoteLib_RequestTicks (0,TF04)
+[6176] 2016/03/09 10:45:00.347 SKQuoteLib_RequestTicks (0,TF06)
+[6176] 2016/03/09 10:45:00.351 SKQuoteLib_RequestTicks (0,TF09)
+[6176] 2016/03/09 10:45:00.356 SKQuoteLib_RequestTicks (0,TF12)
+[6176] 2016/03/09 10:45:41.085 Check Link Status 
+[5340] 2016/03/09 11:01:35.228 API InitInstance 
+[5340] 2016/03/09 11:01:35.231 SKQuoteLib_Initialize ¡GB222875498
+[5340] 2016/03/09 11:01:35.232 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[5340] 2016/03/09 11:01:35.877 SKQuoteLib_Initialize  SUCCESS 
+[5340] 2016/03/09 11:01:35.898 SKQuoteLib_EnterMonitor IP¡Ginfo21.capital.com.tw
+[5340] 2016/03/09 11:01:35.903 SKQuoteLib_AttachConnectionCallBack 
+[5340] 2016/03/09 11:01:35.904 SKQuoteLib_AttachQuoteCallBack 
+[5340] 2016/03/09 11:01:35.905 SKQuoteLib_AttachBest5CallBack 
+[5340] 2016/03/09 11:01:36.760 SocketConnect Type¡G100  ErrorCode¡G0
+[5340] 2016/03/09 11:01:38.535 Stocks Ready
+[5340] 2016/03/09 11:01:55.441 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[5340] 2016/03/09 11:01:55.442 Divide StockNo {TSEA}
+[5340] 2016/03/09 11:01:55.442 Add Basket MarketNo¡G0 StockIdx¡G10572
+[5340] 2016/03/09 11:01:55.443 Divide StockNo {TX00}
+[5340] 2016/03/09 11:01:55.443 Add Basket MarketNo¡G2 StockIdx¡G0
+[5340] 2016/03/09 11:01:55.444 Divide StockNo {TX03}
+[5340] 2016/03/09 11:01:55.444 Add Basket MarketNo¡G2 StockIdx¡G1
+[5340] 2016/03/09 11:01:55.445 Divide StockNo {TX04}
+[5340] 2016/03/09 11:01:55.445 Add Basket MarketNo¡G2 StockIdx¡G2
+[5340] 2016/03/09 11:01:55.446 Divide StockNo {TX06}
+[5340] 2016/03/09 11:01:55.446 Add Basket MarketNo¡G2 StockIdx¡G3
+[5340] 2016/03/09 11:01:55.447 Divide StockNo {TX09}
+[5340] 2016/03/09 11:01:55.447 Add Basket MarketNo¡G2 StockIdx¡G4
+[5340] 2016/03/09 11:01:55.448 Divide StockNo {TX12}
+[5340] 2016/03/09 11:01:55.448 Add Basket MarketNo¡G2 StockIdx¡G5
+[5340] 2016/03/09 11:01:55.448 Divide StockNo {TE00}
+[5340] 2016/03/09 11:01:55.449 Add Basket MarketNo¡G2 StockIdx¡G14
+[5340] 2016/03/09 11:01:55.450 Divide StockNo {TE03}
+[5340] 2016/03/09 11:01:55.450 Add Basket MarketNo¡G2 StockIdx¡G15
+[5340] 2016/03/09 11:01:55.451 Divide StockNo {TE04}
+[5340] 2016/03/09 11:01:55.451 Add Basket MarketNo¡G2 StockIdx¡G16
+[5340] 2016/03/09 11:01:55.452 Divide StockNo {TE06}
+[5340] 2016/03/09 11:01:55.452 Add Basket MarketNo¡G2 StockIdx¡G17
+[5340] 2016/03/09 11:01:55.452 Divide StockNo {TE09}
+[5340] 2016/03/09 11:01:55.453 Add Basket MarketNo¡G2 StockIdx¡G18
+[5340] 2016/03/09 11:01:55.453 Divide StockNo {TE12}
+[5340] 2016/03/09 11:01:55.454 Add Basket MarketNo¡G2 StockIdx¡G19
+[5340] 2016/03/09 11:01:55.455 Divide StockNo {TF00}
+[5340] 2016/03/09 11:01:55.455 Add Basket MarketNo¡G2 StockIdx¡G20
+[5340] 2016/03/09 11:01:55.455 Divide StockNo {TF03}
+[5340] 2016/03/09 11:01:55.456 Add Basket MarketNo¡G2 StockIdx¡G21
+[5340] 2016/03/09 11:01:55.456 Divide StockNo {TF04}
+[5340] 2016/03/09 11:01:55.457 Add Basket MarketNo¡G2 StockIdx¡G22
+[5340] 2016/03/09 11:01:55.457 Divide StockNo {TF06}
+[5340] 2016/03/09 11:01:55.457 Add Basket MarketNo¡G2 StockIdx¡G23
+[5340] 2016/03/09 11:01:55.458 Divide StockNo {TF09}
+[5340] 2016/03/09 11:01:55.459 Add Basket MarketNo¡G2 StockIdx¡G24
+[5340] 2016/03/09 11:01:55.459 Divide StockNo {TF12}
+[5340] 2016/03/09 11:01:55.460 Add Basket MarketNo¡G2 StockIdx¡G25
+[5340] 2016/03/09 11:01:55.460 SKQuoteLib_RequestStocks Page 1
+[5340] 2016/03/09 11:01:55.484 SKQuoteLib_RequestTicks (0,TSEA)
+[5340] 2016/03/09 11:01:55.488 SKQuoteLib_RequestTicks (0,TX00)
+[5340] 2016/03/09 11:01:55.490 SKQuoteLib_RequestTicks (0,TX03)
+[5340] 2016/03/09 11:01:55.494 SKQuoteLib_RequestTicks (0,TX04)
+[5340] 2016/03/09 11:01:55.498 SKQuoteLib_RequestTicks (0,TX06)
+[5340] 2016/03/09 11:01:55.500 SKQuoteLib_RequestTicks (0,TX09)
+[5340] 2016/03/09 11:01:55.504 SKQuoteLib_RequestTicks (0,TX12)
+[5340] 2016/03/09 11:01:55.513 SKQuoteLib_RequestTicks (0,TE00)
+[5340] 2016/03/09 11:01:55.515 SKQuoteLib_RequestTicks (0,TE03)
+[5340] 2016/03/09 11:01:55.520 SKQuoteLib_RequestTicks (0,TE04)
+[5340] 2016/03/09 11:01:55.524 SKQuoteLib_RequestTicks (0,TE06)
+[5340] 2016/03/09 11:01:55.526 SKQuoteLib_RequestTicks (0,TE09)
+[5340] 2016/03/09 11:01:55.529 SKQuoteLib_RequestTicks (0,TE12)
+[5340] 2016/03/09 11:01:55.533 SKQuoteLib_RequestTicks (0,TF00)
+[5340] 2016/03/09 11:01:55.535 SKQuoteLib_RequestTicks (0,TF03)
+[5340] 2016/03/09 11:01:55.539 SKQuoteLib_RequestTicks (0,TF04)
+[5340] 2016/03/09 11:01:55.542 SKQuoteLib_RequestTicks (0,TF06)
+[5340] 2016/03/09 11:01:55.544 SKQuoteLib_RequestTicks (0,TF09)
+[5340] 2016/03/09 11:01:55.548 SKQuoteLib_RequestTicks (0,TF12)
+[5340] 2016/03/09 11:02:36.767 Check Link Status 
+[5340] 2016/03/09 11:03:36.758 Check Link Status 
+[5340] 2016/03/09 11:04:36.756 Check Link Status 
+[5340] 2016/03/09 11:05:36.756 Check Link Status 
+[5340] 2016/03/09 11:06:36.755 Check Link Status 
+[5340] 2016/03/09 11:07:36.755 Check Link Status 
+[5340] 2016/03/09 11:08:36.757 Check Link Status 
+[5340] 2016/03/09 11:09:36.756 Check Link Status 
+[5340] 2016/03/09 11:10:36.755 Check Link Status 
+[5340] 2016/03/09 11:11:36.758 Check Link Status 
+[5340] 2016/03/09 11:12:36.757 Check Link Status 
+[5340] 2016/03/09 11:13:36.759 Check Link Status 
+[5340] 2016/03/09 11:14:36.757 Check Link Status 
+[5340] 2016/03/09 11:15:36.757 Check Link Status 
+[6044] 2016/03/09 14:32:40.215 API InitInstance 
+[6044] 2016/03/09 14:32:40.226 SKQuoteLib_Initialize ¡GB222875498
+[6044] 2016/03/09 14:32:40.227 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[6044] 2016/03/09 14:32:41.037 SKQuoteLib_Initialize  SUCCESS 
+[6044] 2016/03/09 14:32:41.111 SKQuoteLib_EnterMonitor IP¡Ginfo16.capital.com.tw
+[6044] 2016/03/09 14:32:41.118 SKQuoteLib_AttachConnectionCallBack 
+[6044] 2016/03/09 14:32:41.120 SKQuoteLib_AttachQuoteCallBack 
+[6044] 2016/03/09 14:32:41.121 SKQuoteLib_AttachBest5CallBack 
+[6044] 2016/03/09 14:32:42.176 SocketConnect Type¡G100  ErrorCode¡G0
+[6044] 2016/03/09 14:32:43.801 Stocks Ready
+[6044] 2016/03/09 14:32:59.256 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[6044] 2016/03/09 14:32:59.257 Divide StockNo {TSEA}
+[6044] 2016/03/09 14:32:59.257 Add Basket MarketNo¡G0 StockIdx¡G10572
+[6044] 2016/03/09 14:32:59.258 Divide StockNo {TX00}
+[6044] 2016/03/09 14:32:59.258 Add Basket MarketNo¡G2 StockIdx¡G0
+[6044] 2016/03/09 14:32:59.259 Divide StockNo {TX03}
+[6044] 2016/03/09 14:32:59.259 Add Basket MarketNo¡G2 StockIdx¡G1
+[6044] 2016/03/09 14:32:59.259 Divide StockNo {TX04}
+[6044] 2016/03/09 14:32:59.260 Add Basket MarketNo¡G2 StockIdx¡G2
+[6044] 2016/03/09 14:32:59.260 Divide StockNo {TX06}
+[6044] 2016/03/09 14:32:59.260 Add Basket MarketNo¡G2 StockIdx¡G3
+[6044] 2016/03/09 14:32:59.261 Divide StockNo {TX09}
+[6044] 2016/03/09 14:32:59.261 Add Basket MarketNo¡G2 StockIdx¡G4
+[6044] 2016/03/09 14:32:59.262 Divide StockNo {TX12}
+[6044] 2016/03/09 14:32:59.262 Add Basket MarketNo¡G2 StockIdx¡G5
+[6044] 2016/03/09 14:32:59.263 Divide StockNo {TE00}
+[6044] 2016/03/09 14:32:59.263 Add Basket MarketNo¡G2 StockIdx¡G14
+[6044] 2016/03/09 14:32:59.263 Divide StockNo {TE03}
+[6044] 2016/03/09 14:32:59.264 Add Basket MarketNo¡G2 StockIdx¡G15
+[6044] 2016/03/09 14:32:59.264 Divide StockNo {TE04}
+[6044] 2016/03/09 14:32:59.264 Add Basket MarketNo¡G2 StockIdx¡G16
+[6044] 2016/03/09 14:32:59.265 Divide StockNo {TE06}
+[6044] 2016/03/09 14:32:59.265 Add Basket MarketNo¡G2 StockIdx¡G17
+[6044] 2016/03/09 14:32:59.266 Divide StockNo {TE09}
+[6044] 2016/03/09 14:32:59.266 Add Basket MarketNo¡G2 StockIdx¡G18
+[6044] 2016/03/09 14:32:59.266 Divide StockNo {TE12}
+[6044] 2016/03/09 14:32:59.267 Add Basket MarketNo¡G2 StockIdx¡G19
+[6044] 2016/03/09 14:32:59.267 Divide StockNo {TF00}
+[6044] 2016/03/09 14:32:59.268 Add Basket MarketNo¡G2 StockIdx¡G20
+[6044] 2016/03/09 14:32:59.268 Divide StockNo {TF03}
+[6044] 2016/03/09 14:32:59.268 Add Basket MarketNo¡G2 StockIdx¡G21
+[6044] 2016/03/09 14:32:59.269 Divide StockNo {TF04}
+[6044] 2016/03/09 14:32:59.269 Add Basket MarketNo¡G2 StockIdx¡G22
+[6044] 2016/03/09 14:32:59.270 Divide StockNo {TF06}
+[6044] 2016/03/09 14:32:59.270 Add Basket MarketNo¡G2 StockIdx¡G23
+[6044] 2016/03/09 14:32:59.270 Divide StockNo {TF09}
+[6044] 2016/03/09 14:32:59.271 Add Basket MarketNo¡G2 StockIdx¡G24
+[6044] 2016/03/09 14:32:59.271 Divide StockNo {TF12}
+[6044] 2016/03/09 14:32:59.272 Add Basket MarketNo¡G2 StockIdx¡G25
+[6044] 2016/03/09 14:32:59.272 SKQuoteLib_RequestStocks Page 1
+[6044] 2016/03/09 14:32:59.297 SKQuoteLib_RequestTicks (0,TSEA)
+[6044] 2016/03/09 14:32:59.304 SKQuoteLib_RequestTicks (0,TX00)
+[6044] 2016/03/09 14:32:59.305 SKQuoteLib_RequestTicks (0,TX03)
+[6044] 2016/03/09 14:32:59.305 SKQuoteLib_RequestTicks (0,TX04)
+[6044] 2016/03/09 14:32:59.306 SKQuoteLib_RequestTicks (0,TX06)
+[6044] 2016/03/09 14:32:59.307 SKQuoteLib_RequestTicks (0,TX09)
+[6044] 2016/03/09 14:32:59.307 SKQuoteLib_RequestTicks (0,TX12)
+[6044] 2016/03/09 14:32:59.308 SKQuoteLib_RequestTicks (0,TE00)
+[6044] 2016/03/09 14:32:59.308 SKQuoteLib_RequestTicks (0,TE03)
+[6044] 2016/03/09 14:32:59.309 SKQuoteLib_RequestTicks (0,TE04)
+[6044] 2016/03/09 14:32:59.310 SKQuoteLib_RequestTicks (0,TE06)
+[6044] 2016/03/09 14:32:59.310 SKQuoteLib_RequestTicks (0,TE09)
+[6044] 2016/03/09 14:32:59.311 SKQuoteLib_RequestTicks (0,TE12)
+[6044] 2016/03/09 14:32:59.311 SKQuoteLib_RequestTicks (0,TF00)
+[6044] 2016/03/09 14:32:59.312 SKQuoteLib_RequestTicks (0,TF03)
+[6044] 2016/03/09 14:32:59.312 SKQuoteLib_RequestTicks (0,TF04)
+[6044] 2016/03/09 14:32:59.313 SKQuoteLib_RequestTicks (0,TF06)
+[6044] 2016/03/09 14:32:59.313 SKQuoteLib_RequestTicks (0,TF09)
+[6044] 2016/03/09 14:32:59.314 SKQuoteLib_RequestTicks (0,TF12)
+[6044] 2016/03/09 14:33:42.162 Check Link Status 
+[6044] 2016/03/09 14:34:42.162 Check Link Status 
+[1912] 2016/03/09 14:37:33.443 API InitInstance 
+[1912] 2016/03/09 14:37:33.445 SKQuoteLib_Initialize ¡GB222875498
+[1912] 2016/03/09 14:37:33.446 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[1912] 2016/03/09 14:37:34.167 SKQuoteLib_Initialize  SUCCESS 
+[1912] 2016/03/09 14:37:34.186 SKQuoteLib_EnterMonitor IP¡Ginfo8.capital.com.tw
+[1912] 2016/03/09 14:37:34.188 SKQuoteLib_AttachConnectionCallBack 
+[1912] 2016/03/09 14:37:34.189 SKQuoteLib_AttachQuoteCallBack 
+[1912] 2016/03/09 14:37:34.189 SKQuoteLib_AttachBest5CallBack 
+[1912] 2016/03/09 14:37:35.185 SocketConnect Type¡G100  ErrorCode¡G0
+[1912] 2016/03/09 14:37:37.057 Stocks Ready
+[1912] 2016/03/09 14:37:53.715 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[1912] 2016/03/09 14:37:53.716 Divide StockNo {TSEA}
+[1912] 2016/03/09 14:37:53.717 Add Basket MarketNo¡G0 StockIdx¡G10572
+[1912] 2016/03/09 14:37:53.717 Divide StockNo {TX00}
+[1912] 2016/03/09 14:37:53.718 Add Basket MarketNo¡G2 StockIdx¡G0
+[1912] 2016/03/09 14:37:53.718 Divide StockNo {TX03}
+[1912] 2016/03/09 14:37:53.719 Add Basket MarketNo¡G2 StockIdx¡G1
+[1912] 2016/03/09 14:37:53.719 Divide StockNo {TX04}
+[1912] 2016/03/09 14:37:53.720 Add Basket MarketNo¡G2 StockIdx¡G2
+[1912] 2016/03/09 14:37:53.720 Divide StockNo {TX06}
+[1912] 2016/03/09 14:37:53.720 Add Basket MarketNo¡G2 StockIdx¡G3
+[1912] 2016/03/09 14:37:53.721 Divide StockNo {TX09}
+[1912] 2016/03/09 14:37:53.721 Add Basket MarketNo¡G2 StockIdx¡G4
+[1912] 2016/03/09 14:37:53.722 Divide StockNo {TX12}
+[1912] 2016/03/09 14:37:53.722 Add Basket MarketNo¡G2 StockIdx¡G5
+[1912] 2016/03/09 14:37:53.723 Divide StockNo {TE00}
+[1912] 2016/03/09 14:37:53.723 Add Basket MarketNo¡G2 StockIdx¡G14
+[1912] 2016/03/09 14:37:53.724 Divide StockNo {TE03}
+[1912] 2016/03/09 14:37:53.724 Add Basket MarketNo¡G2 StockIdx¡G15
+[1912] 2016/03/09 14:37:53.724 Divide StockNo {TE04}
+[1912] 2016/03/09 14:37:53.725 Add Basket MarketNo¡G2 StockIdx¡G16
+[1912] 2016/03/09 14:37:53.725 Divide StockNo {TE06}
+[1912] 2016/03/09 14:37:53.726 Add Basket MarketNo¡G2 StockIdx¡G17
+[1912] 2016/03/09 14:37:53.726 Divide StockNo {TE09}
+[1912] 2016/03/09 14:37:53.727 Add Basket MarketNo¡G2 StockIdx¡G18
+[1912] 2016/03/09 14:37:53.727 Divide StockNo {TE12}
+[1912] 2016/03/09 14:37:53.727 Add Basket MarketNo¡G2 StockIdx¡G19
+[1912] 2016/03/09 14:37:53.728 Divide StockNo {TF00}
+[1912] 2016/03/09 14:37:53.728 Add Basket MarketNo¡G2 StockIdx¡G20
+[1912] 2016/03/09 14:37:53.729 Divide StockNo {TF03}
+[1912] 2016/03/09 14:37:53.729 Add Basket MarketNo¡G2 StockIdx¡G21
+[1912] 2016/03/09 14:37:53.730 Divide StockNo {TF04}
+[1912] 2016/03/09 14:37:53.730 Add Basket MarketNo¡G2 StockIdx¡G22
+[1912] 2016/03/09 14:37:53.731 Divide StockNo {TF06}
+[1912] 2016/03/09 14:37:53.731 Add Basket MarketNo¡G2 StockIdx¡G23
+[1912] 2016/03/09 14:37:53.732 Divide StockNo {TF09}
+[1912] 2016/03/09 14:37:53.732 Add Basket MarketNo¡G2 StockIdx¡G24
+[1912] 2016/03/09 14:37:53.732 Divide StockNo {TF12}
+[1912] 2016/03/09 14:37:53.733 Add Basket MarketNo¡G2 StockIdx¡G25
+[1912] 2016/03/09 14:37:53.733 SKQuoteLib_RequestStocks Page 1
+[1912] 2016/03/09 14:37:53.751 SKQuoteLib_RequestTicks (0,TSEA)
+[1912] 2016/03/09 14:37:53.757 SKQuoteLib_RequestTicks (0,TX00)
+[1912] 2016/03/09 14:37:53.760 SKQuoteLib_RequestTicks (0,TX03)
+[1912] 2016/03/09 14:37:53.762 SKQuoteLib_RequestTicks (0,TX04)
+[1912] 2016/03/09 14:37:53.765 SKQuoteLib_RequestTicks (0,TX06)
+[1912] 2016/03/09 14:37:53.769 SKQuoteLib_RequestTicks (0,TX09)
+[1912] 2016/03/09 14:37:53.770 SKQuoteLib_RequestTicks (0,TX12)
+[1912] 2016/03/09 14:37:53.773 SKQuoteLib_RequestTicks (0,TE00)
+[1912] 2016/03/09 14:37:53.777 SKQuoteLib_RequestTicks (0,TE03)
+[1912] 2016/03/09 14:37:53.778 SKQuoteLib_RequestTicks (0,TE04)
+[1912] 2016/03/09 14:37:53.782 SKQuoteLib_RequestTicks (0,TE06)
+[1912] 2016/03/09 14:37:53.785 SKQuoteLib_RequestTicks (0,TE09)
+[1912] 2016/03/09 14:37:53.787 SKQuoteLib_RequestTicks (0,TE12)
+[1912] 2016/03/09 14:37:53.791 SKQuoteLib_RequestTicks (0,TF00)
+[1912] 2016/03/09 14:37:53.794 SKQuoteLib_RequestTicks (0,TF03)
+[1912] 2016/03/09 14:37:53.796 SKQuoteLib_RequestTicks (0,TF04)
+[1912] 2016/03/09 14:37:53.800 SKQuoteLib_RequestTicks (0,TF06)
+[1912] 2016/03/09 14:37:53.804 SKQuoteLib_RequestTicks (0,TF09)
+[1912] 2016/03/09 14:37:53.805 SKQuoteLib_RequestTicks (0,TF12)
+[1912] 2016/03/09 14:38:35.179 Check Link Status 
+[10348] 2016/03/09 14:39:36.380 API InitInstance 
+[10348] 2016/03/09 14:39:36.383 SKQuoteLib_Initialize ¡GB222875498
+[10348] 2016/03/09 14:39:36.383 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[10348] 2016/03/09 14:39:37.088 SKQuoteLib_Initialize  SUCCESS 
+[10348] 2016/03/09 14:39:37.109 SKQuoteLib_EnterMonitor IP¡Ginfo16.capital.com.tw
+[10348] 2016/03/09 14:39:37.111 SKQuoteLib_AttachConnectionCallBack 
+[10348] 2016/03/09 14:39:37.112 SKQuoteLib_AttachQuoteCallBack 
+[10348] 2016/03/09 14:39:37.113 SKQuoteLib_AttachBest5CallBack 
+[10348] 2016/03/09 14:39:38.916 SocketConnect Type¡G100  ErrorCode¡G0
+[10348] 2016/03/09 14:39:40.803 Stocks Ready
+[10348] 2016/03/09 14:39:57.495 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[10348] 2016/03/09 14:39:57.497 Divide StockNo {TSEA}
+[10348] 2016/03/09 14:39:57.497 Add Basket MarketNo¡G0 StockIdx¡G10572
+[10348] 2016/03/09 14:39:57.498 Divide StockNo {TX00}
+[10348] 2016/03/09 14:39:57.498 Add Basket MarketNo¡G2 StockIdx¡G0
+[10348] 2016/03/09 14:39:57.498 Divide StockNo {TX03}
+[10348] 2016/03/09 14:39:57.499 Add Basket MarketNo¡G2 StockIdx¡G1
+[10348] 2016/03/09 14:39:57.499 Divide StockNo {TX04}
+[10348] 2016/03/09 14:39:57.501 Add Basket MarketNo¡G2 StockIdx¡G2
+[10348] 2016/03/09 14:39:57.501 Divide StockNo {TX06}
+[10348] 2016/03/09 14:39:57.501 Add Basket MarketNo¡G2 StockIdx¡G3
+[10348] 2016/03/09 14:39:57.502 Divide StockNo {TX09}
+[10348] 2016/03/09 14:39:57.502 Add Basket MarketNo¡G2 StockIdx¡G4
+[10348] 2016/03/09 14:39:57.502 Divide StockNo {TX12}
+[10348] 2016/03/09 14:39:57.503 Add Basket MarketNo¡G2 StockIdx¡G5
+[10348] 2016/03/09 14:39:57.504 Divide StockNo {TE00}
+[10348] 2016/03/09 14:39:57.504 Add Basket MarketNo¡G2 StockIdx¡G14
+[10348] 2016/03/09 14:39:57.505 Divide StockNo {TE03}
+[10348] 2016/03/09 14:39:57.505 Add Basket MarketNo¡G2 StockIdx¡G15
+[10348] 2016/03/09 14:39:57.506 Divide StockNo {TE04}
+[10348] 2016/03/09 14:39:57.506 Add Basket MarketNo¡G2 StockIdx¡G16
+[10348] 2016/03/09 14:39:57.507 Divide StockNo {TE06}
+[10348] 2016/03/09 14:39:57.507 Add Basket MarketNo¡G2 StockIdx¡G17
+[10348] 2016/03/09 14:39:57.507 Divide StockNo {TE09}
+[10348] 2016/03/09 14:39:57.508 Add Basket MarketNo¡G2 StockIdx¡G18
+[10348] 2016/03/09 14:39:57.508 Divide StockNo {TE12}
+[10348] 2016/03/09 14:39:57.509 Add Basket MarketNo¡G2 StockIdx¡G19
+[10348] 2016/03/09 14:39:57.510 Divide StockNo {TF00}
+[10348] 2016/03/09 14:39:57.510 Add Basket MarketNo¡G2 StockIdx¡G20
+[10348] 2016/03/09 14:39:57.510 Divide StockNo {TF03}
+[10348] 2016/03/09 14:39:57.511 Add Basket MarketNo¡G2 StockIdx¡G21
+[10348] 2016/03/09 14:39:57.511 Divide StockNo {TF04}
+[10348] 2016/03/09 14:39:57.512 Add Basket MarketNo¡G2 StockIdx¡G22
+[10348] 2016/03/09 14:39:57.513 Divide StockNo {TF06}
+[10348] 2016/03/09 14:39:57.513 Add Basket MarketNo¡G2 StockIdx¡G23
+[10348] 2016/03/09 14:39:57.514 Divide StockNo {TF09}
+[10348] 2016/03/09 14:39:57.514 Add Basket MarketNo¡G2 StockIdx¡G24
+[10348] 2016/03/09 14:39:57.515 Divide StockNo {TF12}
+[10348] 2016/03/09 14:39:57.515 Add Basket MarketNo¡G2 StockIdx¡G25
+[10348] 2016/03/09 14:39:57.515 SKQuoteLib_RequestStocks Page 1
+[10348] 2016/03/09 14:39:57.539 SKQuoteLib_RequestTicks (0,TSEA)
+[10348] 2016/03/09 14:39:57.543 SKQuoteLib_RequestTicks (0,TX00)
+[10348] 2016/03/09 14:39:57.544 SKQuoteLib_RequestTicks (0,TX03)
+[10348] 2016/03/09 14:39:57.548 SKQuoteLib_RequestTicks (0,TX04)
+[10348] 2016/03/09 14:39:57.552 SKQuoteLib_RequestTicks (0,TX06)
+[10348] 2016/03/09 14:39:57.554 SKQuoteLib_RequestTicks (0,TX09)
+[10348] 2016/03/09 14:39:57.558 SKQuoteLib_RequestTicks (0,TX12)
+[10348] 2016/03/09 14:39:57.562 SKQuoteLib_RequestTicks (0,TE00)
+[10348] 2016/03/09 14:39:57.563 SKQuoteLib_RequestTicks (0,TE03)
+[10348] 2016/03/09 14:39:57.567 SKQuoteLib_RequestTicks (0,TE04)
+[10348] 2016/03/09 14:39:57.570 SKQuoteLib_RequestTicks (0,TE06)
+[10348] 2016/03/09 14:39:57.572 SKQuoteLib_RequestTicks (0,TE09)
+[10348] 2016/03/09 14:39:57.576 SKQuoteLib_RequestTicks (0,TE12)
+[10348] 2016/03/09 14:39:57.579 SKQuoteLib_RequestTicks (0,TF00)
+[10348] 2016/03/09 14:39:57.581 SKQuoteLib_RequestTicks (0,TF03)
+[10348] 2016/03/09 14:39:57.584 SKQuoteLib_RequestTicks (0,TF04)
+[10348] 2016/03/09 14:39:57.588 SKQuoteLib_RequestTicks (0,TF06)
+[10348] 2016/03/09 14:39:57.590 SKQuoteLib_RequestTicks (0,TF09)
+[10348] 2016/03/09 14:39:57.594 SKQuoteLib_RequestTicks (0,TF12)
+[1380] 2016/03/09 14:40:36.696 API InitInstance 
+[1380] 2016/03/09 14:40:36.699 SKQuoteLib_Initialize ¡GB222875498
+[1380] 2016/03/09 14:40:36.700 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[1380] 2016/03/09 14:40:37.314 SKQuoteLib_Initialize  SUCCESS 
+[1380] 2016/03/09 14:40:37.320 SKQuoteLib_EnterMonitor IP¡Ginfo8.capital.com.tw
+[1380] 2016/03/09 14:40:37.322 SKQuoteLib_AttachConnectionCallBack 
+[1380] 2016/03/09 14:40:37.322 SKQuoteLib_AttachQuoteCallBack 
+[1380] 2016/03/09 14:40:37.323 SKQuoteLib_AttachBest5CallBack 
+[1380] 2016/03/09 14:40:37.936 SocketConnect Type¡G100  ErrorCode¡G0
+[12128] 2016/03/09 14:44:47.976 API InitInstance 
+[12128] 2016/03/09 14:44:47.979 SKQuoteLib_Initialize ¡GB222875498
+[12128] 2016/03/09 14:44:47.979 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[12128] 2016/03/09 14:44:48.644 SKQuoteLib_Initialize  SUCCESS 
+[12128] 2016/03/09 14:44:48.665 SKQuoteLib_EnterMonitor IP¡Ginfo21.capital.com.tw
+[12128] 2016/03/09 14:44:48.667 SKQuoteLib_AttachConnectionCallBack 
+[12128] 2016/03/09 14:44:48.668 SKQuoteLib_AttachQuoteCallBack 
+[12128] 2016/03/09 14:44:48.668 SKQuoteLib_AttachBest5CallBack 
+[12128] 2016/03/09 14:44:49.156 SocketConnect Type¡G100  ErrorCode¡G0
+[12128] 2016/03/09 14:44:50.499 Stocks Ready
+[12128] 2016/03/09 14:45:07.706 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[12128] 2016/03/09 14:45:07.707 Divide StockNo {TSEA}
+[12128] 2016/03/09 14:45:07.707 Add Basket MarketNo¡G0 StockIdx¡G10572
+[12128] 2016/03/09 14:45:07.708 Divide StockNo {TX00}
+[12128] 2016/03/09 14:45:07.708 Add Basket MarketNo¡G2 StockIdx¡G0
+[12128] 2016/03/09 14:45:07.709 Divide StockNo {TX03}
+[12128] 2016/03/09 14:45:07.709 Add Basket MarketNo¡G2 StockIdx¡G1
+[12128] 2016/03/09 14:45:07.709 Divide StockNo {TX04}
+[12128] 2016/03/09 14:45:07.710 Add Basket MarketNo¡G2 StockIdx¡G2
+[12128] 2016/03/09 14:45:07.711 Divide StockNo {TX06}
+[12128] 2016/03/09 14:45:07.711 Add Basket MarketNo¡G2 StockIdx¡G3
+[12128] 2016/03/09 14:45:07.712 Divide StockNo {TX09}
+[12128] 2016/03/09 14:45:07.712 Add Basket MarketNo¡G2 StockIdx¡G4
+[12128] 2016/03/09 14:45:07.712 Divide StockNo {TX12}
+[12128] 2016/03/09 14:45:07.713 Add Basket MarketNo¡G2 StockIdx¡G5
+[12128] 2016/03/09 14:45:07.713 Divide StockNo {TE00}
+[12128] 2016/03/09 14:45:07.714 Add Basket MarketNo¡G2 StockIdx¡G14
+[12128] 2016/03/09 14:45:07.714 Divide StockNo {TE03}
+[12128] 2016/03/09 14:45:07.715 Add Basket MarketNo¡G2 StockIdx¡G15
+[12128] 2016/03/09 14:45:07.716 Divide StockNo {TE04}
+[12128] 2016/03/09 14:45:07.716 Add Basket MarketNo¡G2 StockIdx¡G16
+[12128] 2016/03/09 14:45:07.716 Divide StockNo {TE06}
+[12128] 2016/03/09 14:45:07.717 Add Basket MarketNo¡G2 StockIdx¡G17
+[12128] 2016/03/09 14:45:07.717 Divide StockNo {TE09}
+[12128] 2016/03/09 14:45:07.718 Add Basket MarketNo¡G2 StockIdx¡G18
+[12128] 2016/03/09 14:45:07.718 Divide StockNo {TE12}
+[12128] 2016/03/09 14:45:07.718 Add Basket MarketNo¡G2 StockIdx¡G19
+[12128] 2016/03/09 14:45:07.719 Divide StockNo {TF00}
+[12128] 2016/03/09 14:45:07.719 Add Basket MarketNo¡G2 StockIdx¡G20
+[12128] 2016/03/09 14:45:07.720 Divide StockNo {TF03}
+[12128] 2016/03/09 14:45:07.720 Add Basket MarketNo¡G2 StockIdx¡G21
+[12128] 2016/03/09 14:45:07.721 Divide StockNo {TF04}
+[12128] 2016/03/09 14:45:07.721 Add Basket MarketNo¡G2 StockIdx¡G22
+[12128] 2016/03/09 14:45:07.722 Divide StockNo {TF06}
+[12128] 2016/03/09 14:45:07.722 Add Basket MarketNo¡G2 StockIdx¡G23
+[12128] 2016/03/09 14:45:07.723 Divide StockNo {TF09}
+[12128] 2016/03/09 14:45:07.724 Add Basket MarketNo¡G2 StockIdx¡G24
+[12128] 2016/03/09 14:45:07.724 Divide StockNo {TF12}
+[12128] 2016/03/09 14:45:07.724 Add Basket MarketNo¡G2 StockIdx¡G25
+[12128] 2016/03/09 14:45:07.725 SKQuoteLib_RequestStocks Page 1
+[12128] 2016/03/09 14:45:07.750 SKQuoteLib_RequestTicks (0,TSEA)
+[12128] 2016/03/09 14:45:07.751 SKQuoteLib_RequestTicks (0,TX00)
+[12128] 2016/03/09 14:45:07.755 SKQuoteLib_RequestTicks (0,TX03)
+[12128] 2016/03/09 14:45:07.758 SKQuoteLib_RequestTicks (0,TX04)
+[12128] 2016/03/09 14:45:07.760 SKQuoteLib_RequestTicks (0,TX06)
+[12128] 2016/03/09 14:45:07.764 SKQuoteLib_RequestTicks (0,TX09)
+[12128] 2016/03/09 14:45:07.764 SKQuoteLib_RequestTicks (0,TX12)
+[12128] 2016/03/09 14:45:07.769 SKQuoteLib_RequestTicks (0,TE00)
+[12128] 2016/03/09 14:45:07.771 SKQuoteLib_RequestTicks (0,TE03)
+[12128] 2016/03/09 14:45:07.775 SKQuoteLib_RequestTicks (0,TE04)
+[12128] 2016/03/09 14:45:07.779 SKQuoteLib_RequestTicks (0,TE06)
+[12128] 2016/03/09 14:45:07.780 SKQuoteLib_RequestTicks (0,TE09)
+[12128] 2016/03/09 14:45:07.784 SKQuoteLib_RequestTicks (0,TE12)
+[12128] 2016/03/09 14:45:07.788 SKQuoteLib_RequestTicks (0,TF00)
+[12128] 2016/03/09 14:45:07.790 SKQuoteLib_RequestTicks (0,TF03)
+[12128] 2016/03/09 14:45:07.794 SKQuoteLib_RequestTicks (0,TF04)
+[12128] 2016/03/09 14:45:07.798 SKQuoteLib_RequestTicks (0,TF06)
+[12128] 2016/03/09 14:45:07.799 SKQuoteLib_RequestTicks (0,TF09)
+[12128] 2016/03/09 14:45:07.803 SKQuoteLib_RequestTicks (0,TF12)
+[12128] 2016/03/09 14:45:49.148 Check Link Status 
+[12128] 2016/03/09 14:46:49.148 Check Link Status 
+[12128] 2016/03/09 14:47:49.146 Check Link Status 
+[12128] 2016/03/09 14:48:49.146 Check Link Status 
+[12128] 2016/03/09 14:49:49.147 Check Link Status 
+[12128] 2016/03/09 14:50:51.591 Check Link Status 
+[12128] 2016/03/09 14:51:49.146 Check Link Status 
+[12128] 2016/03/09 14:52:49.148 Check Link Status 
+[12128] 2016/03/09 14:53:49.147 Check Link Status 
+[12128] 2016/03/09 14:54:49.146 Check Link Status 
+[12128] 2016/03/09 14:55:49.148 Check Link Status 
+[12128] 2016/03/09 14:56:49.147 Check Link Status 
+[12128] 2016/03/09 14:57:49.148 Check Link Status 
+[12128] 2016/03/09 14:58:49.148 Check Link Status 
+[12156] 2016/03/09 15:05:02.885 API InitInstance 
+[12156] 2016/03/09 15:05:02.887 SKQuoteLib_Initialize ¡GB222875498
+[12156] 2016/03/09 15:05:02.888 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[12156] 2016/03/09 15:05:03.756 SKQuoteLib_Initialize  SUCCESS 
+[12156] 2016/03/09 15:05:03.778 SKQuoteLib_EnterMonitor IP¡Ginfo21.capital.com.tw
+[12156] 2016/03/09 15:05:03.781 SKQuoteLib_AttachConnectionCallBack 
+[12156] 2016/03/09 15:05:03.782 SKQuoteLib_AttachQuoteCallBack 
+[12156] 2016/03/09 15:05:03.783 SKQuoteLib_AttachBest5CallBack 
+[12156] 2016/03/09 15:05:05.605 SocketConnect Type¡G100  ErrorCode¡G0
+[12156] 2016/03/09 15:05:06.978 Stocks Ready
+[12156] 2016/03/09 15:05:23.706 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[12156] 2016/03/09 15:05:23.707 Divide StockNo {TSEA}
+[12156] 2016/03/09 15:05:23.708 Add Basket MarketNo¡G0 StockIdx¡G10572
+[12156] 2016/03/09 15:05:23.708 Divide StockNo {TX00}
+[12156] 2016/03/09 15:05:23.709 Add Basket MarketNo¡G2 StockIdx¡G0
+[12156] 2016/03/09 15:05:23.709 Divide StockNo {TX03}
+[12156] 2016/03/09 15:05:23.710 Add Basket MarketNo¡G2 StockIdx¡G1
+[12156] 2016/03/09 15:05:23.710 Divide StockNo {TX04}
+[12156] 2016/03/09 15:05:23.711 Add Basket MarketNo¡G2 StockIdx¡G2
+[12156] 2016/03/09 15:05:23.711 Divide StockNo {TX06}
+[12156] 2016/03/09 15:05:23.712 Add Basket MarketNo¡G2 StockIdx¡G3
+[12156] 2016/03/09 15:05:23.712 Divide StockNo {TX09}
+[12156] 2016/03/09 15:05:23.713 Add Basket MarketNo¡G2 StockIdx¡G4
+[12156] 2016/03/09 15:05:23.713 Divide StockNo {TX12}
+[12156] 2016/03/09 15:05:23.713 Add Basket MarketNo¡G2 StockIdx¡G5
+[12156] 2016/03/09 15:05:23.714 Divide StockNo {TE00}
+[12156] 2016/03/09 15:05:23.715 Add Basket MarketNo¡G2 StockIdx¡G14
+[12156] 2016/03/09 15:05:23.715 Divide StockNo {TE03}
+[12156] 2016/03/09 15:05:23.716 Add Basket MarketNo¡G2 StockIdx¡G15
+[12156] 2016/03/09 15:05:23.716 Divide StockNo {TE04}
+[12156] 2016/03/09 15:05:23.717 Add Basket MarketNo¡G2 StockIdx¡G16
+[12156] 2016/03/09 15:05:23.717 Divide StockNo {TE06}
+[12156] 2016/03/09 15:05:23.718 Add Basket MarketNo¡G2 StockIdx¡G17
+[12156] 2016/03/09 15:05:23.718 Divide StockNo {TE09}
+[12156] 2016/03/09 15:05:23.719 Add Basket MarketNo¡G2 StockIdx¡G18
+[12156] 2016/03/09 15:05:23.719 Divide StockNo {TE12}
+[12156] 2016/03/09 15:05:23.720 Add Basket MarketNo¡G2 StockIdx¡G19
+[12156] 2016/03/09 15:05:23.720 Divide StockNo {TF00}
+[12156] 2016/03/09 15:05:23.721 Add Basket MarketNo¡G2 StockIdx¡G20
+[12156] 2016/03/09 15:05:23.721 Divide StockNo {TF03}
+[12156] 2016/03/09 15:05:23.722 Add Basket MarketNo¡G2 StockIdx¡G21
+[12156] 2016/03/09 15:05:23.722 Divide StockNo {TF04}
+[12156] 2016/03/09 15:05:23.723 Add Basket MarketNo¡G2 StockIdx¡G22
+[12156] 2016/03/09 15:05:23.723 Divide StockNo {TF06}
+[12156] 2016/03/09 15:05:23.724 Add Basket MarketNo¡G2 StockIdx¡G23
+[12156] 2016/03/09 15:05:23.724 Divide StockNo {TF09}
+[12156] 2016/03/09 15:05:23.725 Add Basket MarketNo¡G2 StockIdx¡G24
+[12156] 2016/03/09 15:05:23.725 Divide StockNo {TF12}
+[12156] 2016/03/09 15:05:23.726 Add Basket MarketNo¡G2 StockIdx¡G25
+[12156] 2016/03/09 15:05:23.726 SKQuoteLib_RequestStocks Page 1
+[12156] 2016/03/09 15:05:23.755 SKQuoteLib_RequestTicks (0,TSEA)
+[12156] 2016/03/09 15:05:23.756 SKQuoteLib_RequestTicks (0,TX00)
+[12156] 2016/03/09 15:05:23.760 SKQuoteLib_RequestTicks (0,TX03)
+[12156] 2016/03/09 15:05:23.764 SKQuoteLib_RequestTicks (0,TX04)
+[12156] 2016/03/09 15:05:23.765 SKQuoteLib_RequestTicks (0,TX06)
+[12156] 2016/03/09 15:05:23.769 SKQuoteLib_RequestTicks (0,TX09)
+[12156] 2016/03/09 15:05:23.773 SKQuoteLib_RequestTicks (0,TX12)
+[12156] 2016/03/09 15:05:23.774 SKQuoteLib_RequestTicks (0,TE00)
+[12156] 2016/03/09 15:05:23.778 SKQuoteLib_RequestTicks (0,TE03)
+[12156] 2016/03/09 15:05:23.781 SKQuoteLib_RequestTicks (0,TE04)
+[12156] 2016/03/09 15:05:23.783 SKQuoteLib_RequestTicks (0,TE06)
+[12156] 2016/03/09 15:05:23.787 SKQuoteLib_RequestTicks (0,TE09)
+[12156] 2016/03/09 15:05:23.791 SKQuoteLib_RequestTicks (0,TE12)
+[12156] 2016/03/09 15:05:23.792 SKQuoteLib_RequestTicks (0,TF00)
+[12156] 2016/03/09 15:05:23.796 SKQuoteLib_RequestTicks (0,TF03)
+[12156] 2016/03/09 15:05:23.799 SKQuoteLib_RequestTicks (0,TF04)
+[12156] 2016/03/09 15:05:23.801 SKQuoteLib_RequestTicks (0,TF06)
+[12156] 2016/03/09 15:05:23.805 SKQuoteLib_RequestTicks (0,TF09)
+[12156] 2016/03/09 15:05:23.808 SKQuoteLib_RequestTicks (0,TF12)
+[12156] 2016/03/09 15:06:05.599 Check Link Status 
+[12156] 2016/03/09 15:07:05.599 Check Link Status 
+[12412] 2016/03/09 15:08:06.137 API InitInstance 
+[12412] 2016/03/09 15:08:06.139 SKQuoteLib_Initialize ¡GB222875498
+[12412] 2016/03/09 15:08:06.139 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[12412] 2016/03/09 15:08:06.956 SKQuoteLib_Initialize  SUCCESS 
+[12412] 2016/03/09 15:08:06.960 SKQuoteLib_EnterMonitor IP¡Ginfo21.capital.com.tw
+[12412] 2016/03/09 15:08:06.963 SKQuoteLib_AttachConnectionCallBack 
+[12412] 2016/03/09 15:08:06.963 SKQuoteLib_AttachQuoteCallBack 
+[12412] 2016/03/09 15:08:06.964 SKQuoteLib_AttachBest5CallBack 
+[12412] 2016/03/09 15:08:07.735 SocketConnect Type¡G100  ErrorCode¡G0
+[12412] 2016/03/09 15:08:09.133 Stocks Ready
+[12412] 2016/03/09 15:08:26.583 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[12412] 2016/03/09 15:08:26.584 Divide StockNo {TSEA}
+[12412] 2016/03/09 15:08:26.584 Add Basket MarketNo¡G0 StockIdx¡G10572
+[12412] 2016/03/09 15:08:26.585 Divide StockNo {TX00}
+[12412] 2016/03/09 15:08:26.585 Add Basket MarketNo¡G2 StockIdx¡G0
+[12412] 2016/03/09 15:08:26.586 Divide StockNo {TX03}
+[12412] 2016/03/09 15:08:26.586 Add Basket MarketNo¡G2 StockIdx¡G1
+[12412] 2016/03/09 15:08:26.587 Divide StockNo {TX04}
+[12412] 2016/03/09 15:08:26.587 Add Basket MarketNo¡G2 StockIdx¡G2
+[12412] 2016/03/09 15:08:26.588 Divide StockNo {TX06}
+[12412] 2016/03/09 15:08:26.588 Add Basket MarketNo¡G2 StockIdx¡G3
+[12412] 2016/03/09 15:08:26.588 Divide StockNo {TX09}
+[12412] 2016/03/09 15:08:26.589 Add Basket MarketNo¡G2 StockIdx¡G4
+[12412] 2016/03/09 15:08:26.590 Divide StockNo {TX12}
+[12412] 2016/03/09 15:08:26.590 Add Basket MarketNo¡G2 StockIdx¡G5
+[12412] 2016/03/09 15:08:26.591 Divide StockNo {TE00}
+[12412] 2016/03/09 15:08:26.591 Add Basket MarketNo¡G2 StockIdx¡G14
+[12412] 2016/03/09 15:08:26.592 Divide StockNo {TE03}
+[12412] 2016/03/09 15:08:26.592 Add Basket MarketNo¡G2 StockIdx¡G15
+[12412] 2016/03/09 15:08:26.592 Divide StockNo {TE04}
+[12412] 2016/03/09 15:08:26.593 Add Basket MarketNo¡G2 StockIdx¡G16
+[12412] 2016/03/09 15:08:26.593 Divide StockNo {TE06}
+[12412] 2016/03/09 15:08:26.594 Add Basket MarketNo¡G2 StockIdx¡G17
+[12412] 2016/03/09 15:08:26.594 Divide StockNo {TE09}
+[12412] 2016/03/09 15:08:26.595 Add Basket MarketNo¡G2 StockIdx¡G18
+[12412] 2016/03/09 15:08:26.595 Divide StockNo {TE12}
+[12412] 2016/03/09 15:08:26.596 Add Basket MarketNo¡G2 StockIdx¡G19
+[12412] 2016/03/09 15:08:26.596 Divide StockNo {TF00}
+[12412] 2016/03/09 15:08:26.597 Add Basket MarketNo¡G2 StockIdx¡G20
+[12412] 2016/03/09 15:08:26.597 Divide StockNo {TF03}
+[12412] 2016/03/09 15:08:26.598 Add Basket MarketNo¡G2 StockIdx¡G21
+[12412] 2016/03/09 15:08:26.598 Divide StockNo {TF04}
+[12412] 2016/03/09 15:08:26.599 Add Basket MarketNo¡G2 StockIdx¡G22
+[12412] 2016/03/09 15:08:26.599 Divide StockNo {TF06}
+[12412] 2016/03/09 15:08:26.600 Add Basket MarketNo¡G2 StockIdx¡G23
+[12412] 2016/03/09 15:08:26.600 Divide StockNo {TF09}
+[12412] 2016/03/09 15:08:26.600 Add Basket MarketNo¡G2 StockIdx¡G24
+[12412] 2016/03/09 15:08:26.601 Divide StockNo {TF12}
+[12412] 2016/03/09 15:08:26.601 Add Basket MarketNo¡G2 StockIdx¡G25
+[12412] 2016/03/09 15:08:26.602 SKQuoteLib_RequestStocks Page 1
+[12412] 2016/03/09 15:08:26.627 SKQuoteLib_RequestTicks (0,TSEA)
+[12412] 2016/03/09 15:08:26.628 SKQuoteLib_RequestTicks (0,TX00)
+[12412] 2016/03/09 15:08:26.632 SKQuoteLib_RequestTicks (0,TX03)
+[12412] 2016/03/09 15:08:26.636 SKQuoteLib_RequestTicks (0,TX04)
+[12412] 2016/03/09 15:08:26.638 SKQuoteLib_RequestTicks (0,TX06)
+[12412] 2016/03/09 15:08:26.641 SKQuoteLib_RequestTicks (0,TX09)
+[12412] 2016/03/09 15:08:26.645 SKQuoteLib_RequestTicks (0,TX12)
+[12412] 2016/03/09 15:08:26.654 SKQuoteLib_RequestTicks (0,TE00)
+[12412] 2016/03/09 15:08:26.655 SKQuoteLib_RequestTicks (0,TE03)
+[12412] 2016/03/09 15:08:26.659 SKQuoteLib_RequestTicks (0,TE04)
+[12412] 2016/03/09 15:08:26.665 SKQuoteLib_RequestTicks (0,TE06)
+[12412] 2016/03/09 15:08:26.666 SKQuoteLib_RequestTicks (0,TE09)
+[12412] 2016/03/09 15:08:26.671 SKQuoteLib_RequestTicks (0,TE12)
+[12412] 2016/03/09 15:08:26.675 SKQuoteLib_RequestTicks (0,TF00)
+[12412] 2016/03/09 15:08:26.677 SKQuoteLib_RequestTicks (0,TF03)
+[12412] 2016/03/09 15:08:26.681 SKQuoteLib_RequestTicks (0,TF04)
+[12412] 2016/03/09 15:08:26.685 SKQuoteLib_RequestTicks (0,TF06)
+[12412] 2016/03/09 15:08:26.687 SKQuoteLib_RequestTicks (0,TF09)
+[12412] 2016/03/09 15:08:26.691 SKQuoteLib_RequestTicks (0,TF12)
+[12412] 2016/03/09 15:09:07.726 Check Link Status 
+[12412] 2016/03/09 15:10:07.725 Check Link Status 
+[12412] 2016/03/09 15:11:07.726 Check Link Status 
+[12412] 2016/03/09 15:12:07.724 Check Link Status 
+[12412] 2016/03/09 15:13:07.728 Check Link Status 
+[12412] 2016/03/09 15:14:07.724 Check Link Status 
+[12412] 2016/03/09 15:15:07.724 Check Link Status 
+[12412] 2016/03/09 15:16:08.241 Check Link Status 
+[12412] 2016/03/09 15:17:07.724 Check Link Status 
+[12412] 2016/03/09 15:18:07.726 Check Link Status 
+[12412] 2016/03/09 15:19:07.725 Check Link Status 
+[12412] 2016/03/09 15:20:07.726 Check Link Status 
+[12412] 2016/03/09 15:21:07.725 Check Link Status 
+[12412] 2016/03/09 15:22:07.725 Check Link Status 
+[12412] 2016/03/09 15:23:07.725 Check Link Status 
+[12412] 2016/03/09 15:24:44.884 Check Link Status 
+[12412] 2016/03/09 15:25:07.726 Check Link Status 
+[12412] 2016/03/09 15:26:07.727 Check Link Status 
+[12412] 2016/03/09 15:27:07.727 Check Link Status 
+[12412] 2016/03/09 15:28:07.724 Check Link Status 
+[12412] 2016/03/09 15:29:07.726 Check Link Status 
+[12412] 2016/03/09 15:30:07.725 Check Link Status 
+[12412] 2016/03/09 15:31:07.726 Check Link Status 
+[12412] 2016/03/09 15:32:07.724 Check Link Status 
+[12412] 2016/03/09 15:33:07.727 Check Link Status 
+[12412] 2016/03/09 15:34:23.264 Check Link Status 
+[12284] 2016/03/09 15:35:12.683 API InitInstance 
+[12284] 2016/03/09 15:35:12.686 SKQuoteLib_Initialize ¡GB222875498
+[12284] 2016/03/09 15:35:12.687 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[12284] 2016/03/09 15:35:13.258 SKQuoteLib_Initialize  SUCCESS 
+[12284] 2016/03/09 15:35:13.279 SKQuoteLib_EnterMonitor IP¡Ginfo10.capital.com.tw
+[12284] 2016/03/09 15:35:13.282 SKQuoteLib_AttachConnectionCallBack 
+[12284] 2016/03/09 15:35:13.283 SKQuoteLib_AttachQuoteCallBack 
+[12284] 2016/03/09 15:35:13.284 SKQuoteLib_AttachBest5CallBack 
+[12284] 2016/03/09 15:35:15.598 SocketConnect Type¡G100  ErrorCode¡G0
+[12284] 2016/03/09 15:35:16.993 Stocks Ready
+[12284] 2016/03/09 15:35:32.719 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[12284] 2016/03/09 15:35:32.721 Divide StockNo {TSEA}
+[12284] 2016/03/09 15:35:32.721 Add Basket MarketNo¡G0 StockIdx¡G10572
+[12284] 2016/03/09 15:35:32.722 Divide StockNo {TX00}
+[12284] 2016/03/09 15:35:32.722 Add Basket MarketNo¡G2 StockIdx¡G0
+[12284] 2016/03/09 15:35:32.723 Divide StockNo {TX03}
+[12284] 2016/03/09 15:35:32.723 Add Basket MarketNo¡G2 StockIdx¡G1
+[12284] 2016/03/09 15:35:32.724 Divide StockNo {TX04}
+[12284] 2016/03/09 15:35:32.724 Add Basket MarketNo¡G2 StockIdx¡G2
+[12284] 2016/03/09 15:35:32.724 Divide StockNo {TX06}
+[12284] 2016/03/09 15:35:32.725 Add Basket MarketNo¡G2 StockIdx¡G3
+[12284] 2016/03/09 15:35:32.726 Divide StockNo {TX09}
+[12284] 2016/03/09 15:35:32.726 Add Basket MarketNo¡G2 StockIdx¡G4
+[12284] 2016/03/09 15:35:32.727 Divide StockNo {TX12}
+[12284] 2016/03/09 15:35:32.727 Add Basket MarketNo¡G2 StockIdx¡G5
+[12284] 2016/03/09 15:35:32.727 Divide StockNo {TE00}
+[12284] 2016/03/09 15:35:32.728 Add Basket MarketNo¡G2 StockIdx¡G14
+[12284] 2016/03/09 15:35:32.728 Divide StockNo {TE03}
+[12284] 2016/03/09 15:35:32.729 Add Basket MarketNo¡G2 StockIdx¡G15
+[12284] 2016/03/09 15:35:32.729 Divide StockNo {TE04}
+[12284] 2016/03/09 15:35:32.730 Add Basket MarketNo¡G2 StockIdx¡G16
+[12284] 2016/03/09 15:35:32.731 Divide StockNo {TE06}
+[12284] 2016/03/09 15:35:32.731 Add Basket MarketNo¡G2 StockIdx¡G17
+[12284] 2016/03/09 15:35:32.732 Divide StockNo {TE09}
+[12284] 2016/03/09 15:35:32.732 Add Basket MarketNo¡G2 StockIdx¡G18
+[12284] 2016/03/09 15:35:32.732 Divide StockNo {TE12}
+[12284] 2016/03/09 15:35:32.733 Add Basket MarketNo¡G2 StockIdx¡G19
+[12284] 2016/03/09 15:35:32.733 Divide StockNo {TF00}
+[12284] 2016/03/09 15:35:32.734 Add Basket MarketNo¡G2 StockIdx¡G20
+[12284] 2016/03/09 15:35:32.735 Divide StockNo {TF03}
+[12284] 2016/03/09 15:35:32.735 Add Basket MarketNo¡G2 StockIdx¡G21
+[12284] 2016/03/09 15:35:32.735 Divide StockNo {TF04}
+[12284] 2016/03/09 15:35:32.736 Add Basket MarketNo¡G2 StockIdx¡G22
+[12284] 2016/03/09 15:35:32.736 Divide StockNo {TF06}
+[12284] 2016/03/09 15:35:32.737 Add Basket MarketNo¡G2 StockIdx¡G23
+[12284] 2016/03/09 15:35:32.737 Divide StockNo {TF09}
+[12284] 2016/03/09 15:35:32.738 Add Basket MarketNo¡G2 StockIdx¡G24
+[12284] 2016/03/09 15:35:32.738 Divide StockNo {TF12}
+[12284] 2016/03/09 15:35:32.739 Add Basket MarketNo¡G2 StockIdx¡G25
+[12284] 2016/03/09 15:35:32.739 SKQuoteLib_RequestStocks Page 1
+[12284] 2016/03/09 15:35:32.768 SKQuoteLib_RequestTicks (0,TSEA)
+[12284] 2016/03/09 15:35:32.769 SKQuoteLib_RequestTicks (0,TX00)
+[12284] 2016/03/09 15:35:32.774 SKQuoteLib_RequestTicks (0,TX03)
+[12284] 2016/03/09 15:35:32.778 SKQuoteLib_RequestTicks (0,TX04)
+[12284] 2016/03/09 15:35:32.779 SKQuoteLib_RequestTicks (0,TX06)
+[12284] 2016/03/09 15:35:32.780 SKQuoteLib_RequestTicks (0,TX09)
+[12284] 2016/03/09 15:35:32.784 SKQuoteLib_RequestTicks (0,TX12)
+[12284] 2016/03/09 15:35:32.789 SKQuoteLib_RequestTicks (0,TE00)
+[12284] 2016/03/09 15:35:32.789 SKQuoteLib_RequestTicks (0,TE03)
+[12284] 2016/03/09 15:35:32.791 SKQuoteLib_RequestTicks (0,TE04)
+[12284] 2016/03/09 15:35:32.796 SKQuoteLib_RequestTicks (0,TE06)
+[12284] 2016/03/09 15:35:32.801 SKQuoteLib_RequestTicks (0,TE09)
+[12284] 2016/03/09 15:35:32.803 SKQuoteLib_RequestTicks (0,TE12)
+[12284] 2016/03/09 15:35:32.809 SKQuoteLib_RequestTicks (0,TF00)
+[12284] 2016/03/09 15:35:32.814 SKQuoteLib_RequestTicks (0,TF03)
+[12284] 2016/03/09 15:35:32.816 SKQuoteLib_RequestTicks (0,TF04)
+[12284] 2016/03/09 15:35:32.820 SKQuoteLib_RequestTicks (0,TF06)
+[12284] 2016/03/09 15:35:32.821 SKQuoteLib_RequestTicks (0,TF09)
+[12284] 2016/03/09 15:35:32.825 SKQuoteLib_RequestTicks (0,TF12)
+[12284] 2016/03/09 15:36:15.587 Check Link Status 
+[12284] 2016/03/09 15:37:15.586 Check Link Status 
+[12284] 2016/03/09 15:38:15.587 Check Link Status 
+[8444] 2016/03/09 15:41:10.215 API InitInstance 
+[8444] 2016/03/09 15:41:10.218 SKQuoteLib_Initialize ¡GB222875498
+[8444] 2016/03/09 15:41:10.219 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[8444] 2016/03/09 15:41:10.891 SKQuoteLib_Initialize  SUCCESS 
+[8444] 2016/03/09 15:41:10.912 SKQuoteLib_EnterMonitor IP¡Ginfo8.capital.com.tw
+[8444] 2016/03/09 15:41:10.915 SKQuoteLib_AttachConnectionCallBack 
+[8444] 2016/03/09 15:41:10.916 SKQuoteLib_AttachQuoteCallBack 
+[8444] 2016/03/09 15:41:10.917 SKQuoteLib_AttachBest5CallBack 
+[8444] 2016/03/09 15:41:11.361 SocketConnect Type¡G100  ErrorCode¡G0
+[8444] 2016/03/09 15:41:13.979 Stocks Ready
+[8444] 2016/03/09 15:41:29.727 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[8444] 2016/03/09 15:41:29.728 Divide StockNo {TSEA}
+[8444] 2016/03/09 15:41:29.729 Add Basket MarketNo¡G0 StockIdx¡G10572
+[8444] 2016/03/09 15:41:29.729 Divide StockNo {TX00}
+[8444] 2016/03/09 15:41:29.730 Add Basket MarketNo¡G2 StockIdx¡G0
+[8444] 2016/03/09 15:41:29.730 Divide StockNo {TX03}
+[8444] 2016/03/09 15:41:29.731 Add Basket MarketNo¡G2 StockIdx¡G1
+[8444] 2016/03/09 15:41:29.731 Divide StockNo {TX04}
+[8444] 2016/03/09 15:41:29.732 Add Basket MarketNo¡G2 StockIdx¡G2
+[8444] 2016/03/09 15:41:29.732 Divide StockNo {TX06}
+[8444] 2016/03/09 15:41:29.733 Add Basket MarketNo¡G2 StockIdx¡G3
+[8444] 2016/03/09 15:41:29.733 Divide StockNo {TX09}
+[8444] 2016/03/09 15:41:29.734 Add Basket MarketNo¡G2 StockIdx¡G4
+[8444] 2016/03/09 15:41:29.734 Divide StockNo {TX12}
+[8444] 2016/03/09 15:41:29.735 Add Basket MarketNo¡G2 StockIdx¡G5
+[8444] 2016/03/09 15:41:29.735 Divide StockNo {TE00}
+[8444] 2016/03/09 15:41:29.735 Add Basket MarketNo¡G2 StockIdx¡G14
+[8444] 2016/03/09 15:41:29.736 Divide StockNo {TE03}
+[8444] 2016/03/09 15:41:29.736 Add Basket MarketNo¡G2 StockIdx¡G15
+[8444] 2016/03/09 15:41:29.737 Divide StockNo {TE04}
+[8444] 2016/03/09 15:41:29.737 Add Basket MarketNo¡G2 StockIdx¡G16
+[8444] 2016/03/09 15:41:29.738 Divide StockNo {TE06}
+[8444] 2016/03/09 15:41:29.738 Add Basket MarketNo¡G2 StockIdx¡G17
+[8444] 2016/03/09 15:41:29.739 Divide StockNo {TE09}
+[8444] 2016/03/09 15:41:29.739 Add Basket MarketNo¡G2 StockIdx¡G18
+[8444] 2016/03/09 15:41:29.740 Divide StockNo {TE12}
+[8444] 2016/03/09 15:41:29.740 Add Basket MarketNo¡G2 StockIdx¡G19
+[8444] 2016/03/09 15:41:29.741 Divide StockNo {TF00}
+[8444] 2016/03/09 15:41:29.741 Add Basket MarketNo¡G2 StockIdx¡G20
+[8444] 2016/03/09 15:41:29.741 Divide StockNo {TF03}
+[8444] 2016/03/09 15:41:29.742 Add Basket MarketNo¡G2 StockIdx¡G21
+[8444] 2016/03/09 15:41:29.742 Divide StockNo {TF04}
+[8444] 2016/03/09 15:41:29.743 Add Basket MarketNo¡G2 StockIdx¡G22
+[8444] 2016/03/09 15:41:29.743 Divide StockNo {TF06}
+[8444] 2016/03/09 15:41:29.744 Add Basket MarketNo¡G2 StockIdx¡G23
+[8444] 2016/03/09 15:41:29.744 Divide StockNo {TF09}
+[8444] 2016/03/09 15:41:29.745 Add Basket MarketNo¡G2 StockIdx¡G24
+[8444] 2016/03/09 15:41:29.745 Divide StockNo {TF12}
+[8444] 2016/03/09 15:41:29.745 Add Basket MarketNo¡G2 StockIdx¡G25
+[8444] 2016/03/09 15:41:29.746 SKQuoteLib_RequestStocks Page 1
+[8444] 2016/03/09 15:41:29.767 SKQuoteLib_RequestTicks (0,TSEA)
+[8444] 2016/03/09 15:41:29.769 SKQuoteLib_RequestTicks (0,TX00)
+[8444] 2016/03/09 15:41:29.773 SKQuoteLib_RequestTicks (0,TX03)
+[8444] 2016/03/09 15:41:29.776 SKQuoteLib_RequestTicks (0,TX04)
+[8444] 2016/03/09 15:41:29.778 SKQuoteLib_RequestTicks (0,TX06)
+[8444] 2016/03/09 15:41:29.781 SKQuoteLib_RequestTicks (0,TX09)
+[8444] 2016/03/09 15:41:29.785 SKQuoteLib_RequestTicks (0,TX12)
+[8444] 2016/03/09 15:41:29.787 SKQuoteLib_RequestTicks (0,TE00)
+[8444] 2016/03/09 15:41:29.792 SKQuoteLib_RequestTicks (0,TE03)
+[8444] 2016/03/09 15:41:29.796 SKQuoteLib_RequestTicks (0,TE04)
+[8444] 2016/03/09 15:41:29.798 SKQuoteLib_RequestTicks (0,TE06)
+[8444] 2016/03/09 15:41:29.802 SKQuoteLib_RequestTicks (0,TE09)
+[8444] 2016/03/09 15:41:29.806 SKQuoteLib_RequestTicks (0,TE12)
+[8444] 2016/03/09 15:41:29.808 SKQuoteLib_RequestTicks (0,TF00)
+[8444] 2016/03/09 15:41:29.813 SKQuoteLib_RequestTicks (0,TF03)
+[8444] 2016/03/09 15:41:29.817 SKQuoteLib_RequestTicks (0,TF04)
+[8444] 2016/03/09 15:41:29.819 SKQuoteLib_RequestTicks (0,TF06)
+[8444] 2016/03/09 15:41:29.822 SKQuoteLib_RequestTicks (0,TF09)
+[8444] 2016/03/09 15:41:29.827 SKQuoteLib_RequestTicks (0,TF12)
+[2808] 2016/03/09 16:05:27.934 API InitInstance 
+[2808] 2016/03/09 16:05:27.937 SKQuoteLib_Initialize ¡GB222875498
+[2808] 2016/03/09 16:05:27.937 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[2808] 2016/03/09 16:05:28.564 SKQuoteLib_Initialize  SUCCESS 
+[2808] 2016/03/09 16:05:28.583 SKQuoteLib_EnterMonitor IP¡Ginfo10.capital.com.tw
+[2808] 2016/03/09 16:05:28.585 SKQuoteLib_AttachConnectionCallBack 
+[2808] 2016/03/09 16:05:28.586 SKQuoteLib_AttachQuoteCallBack 
+[2808] 2016/03/09 16:05:28.588 SKQuoteLib_AttachBest5CallBack 
+[2808] 2016/03/09 16:05:29.421 SocketConnect Type¡G100  ErrorCode¡G0
+[2808] 2016/03/09 16:05:30.816 Stocks Ready
+[2808] 2016/03/09 16:05:47.852 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[2808] 2016/03/09 16:05:47.853 Divide StockNo {TSEA}
+[2808] 2016/03/09 16:05:47.854 Add Basket MarketNo¡G0 StockIdx¡G10572
+[2808] 2016/03/09 16:05:47.854 Divide StockNo {TX00}
+[2808] 2016/03/09 16:05:47.855 Add Basket MarketNo¡G2 StockIdx¡G0
+[2808] 2016/03/09 16:05:47.855 Divide StockNo {TX03}
+[2808] 2016/03/09 16:05:47.856 Add Basket MarketNo¡G2 StockIdx¡G1
+[2808] 2016/03/09 16:05:47.856 Divide StockNo {TX04}
+[2808] 2016/03/09 16:05:47.856 Add Basket MarketNo¡G2 StockIdx¡G2
+[2808] 2016/03/09 16:05:47.857 Divide StockNo {TX06}
+[2808] 2016/03/09 16:05:47.858 Add Basket MarketNo¡G2 StockIdx¡G3
+[2808] 2016/03/09 16:05:47.858 Divide StockNo {TX09}
+[2808] 2016/03/09 16:05:47.858 Add Basket MarketNo¡G2 StockIdx¡G4
+[2808] 2016/03/09 16:05:47.859 Divide StockNo {TX12}
+[2808] 2016/03/09 16:05:47.859 Add Basket MarketNo¡G2 StockIdx¡G5
+[2808] 2016/03/09 16:05:47.860 Divide StockNo {TE00}
+[2808] 2016/03/09 16:05:47.860 Add Basket MarketNo¡G2 StockIdx¡G14
+[2808] 2016/03/09 16:05:47.861 Divide StockNo {TE03}
+[2808] 2016/03/09 16:05:47.862 Add Basket MarketNo¡G2 StockIdx¡G15
+[2808] 2016/03/09 16:05:47.862 Divide StockNo {TE04}
+[2808] 2016/03/09 16:05:47.863 Add Basket MarketNo¡G2 StockIdx¡G16
+[2808] 2016/03/09 16:05:47.863 Divide StockNo {TE06}
+[2808] 2016/03/09 16:05:47.863 Add Basket MarketNo¡G2 StockIdx¡G17
+[2808] 2016/03/09 16:05:47.864 Divide StockNo {TE09}
+[2808] 2016/03/09 16:05:47.864 Add Basket MarketNo¡G2 StockIdx¡G18
+[2808] 2016/03/09 16:05:47.865 Divide StockNo {TE12}
+[2808] 2016/03/09 16:05:47.865 Add Basket MarketNo¡G2 StockIdx¡G19
+[2808] 2016/03/09 16:05:47.866 Divide StockNo {TF00}
+[2808] 2016/03/09 16:05:47.866 Add Basket MarketNo¡G2 StockIdx¡G20
+[2808] 2016/03/09 16:05:47.867 Divide StockNo {TF03}
+[2808] 2016/03/09 16:05:47.867 Add Basket MarketNo¡G2 StockIdx¡G21
+[2808] 2016/03/09 16:05:47.868 Divide StockNo {TF04}
+[2808] 2016/03/09 16:05:47.868 Add Basket MarketNo¡G2 StockIdx¡G22
+[2808] 2016/03/09 16:05:47.869 Divide StockNo {TF06}
+[2808] 2016/03/09 16:05:47.869 Add Basket MarketNo¡G2 StockIdx¡G23
+[2808] 2016/03/09 16:05:47.869 Divide StockNo {TF09}
+[2808] 2016/03/09 16:05:47.870 Add Basket MarketNo¡G2 StockIdx¡G24
+[2808] 2016/03/09 16:05:47.870 Divide StockNo {TF12}
+[2808] 2016/03/09 16:05:47.871 Add Basket MarketNo¡G2 StockIdx¡G25
+[2808] 2016/03/09 16:05:47.871 SKQuoteLib_RequestStocks Page 1
+[2808] 2016/03/09 16:05:47.899 SKQuoteLib_RequestTicks (0,TSEA)
+[2808] 2016/03/09 16:05:47.904 SKQuoteLib_RequestTicks (0,TX00)
+[2808] 2016/03/09 16:05:47.905 SKQuoteLib_RequestTicks (0,TX03)
+[2808] 2016/03/09 16:05:47.911 SKQuoteLib_RequestTicks (0,TX04)
+[2808] 2016/03/09 16:05:47.911 SKQuoteLib_RequestTicks (0,TX06)
+[2808] 2016/03/09 16:05:47.917 SKQuoteLib_RequestTicks (0,TX09)
+[2808] 2016/03/09 16:05:47.923 SKQuoteLib_RequestTicks (0,TX12)
+[2808] 2016/03/09 16:05:47.929 SKQuoteLib_RequestTicks (0,TE00)
+[2808] 2016/03/09 16:05:47.929 SKQuoteLib_RequestTicks (0,TE03)
+[2808] 2016/03/09 16:05:47.931 SKQuoteLib_RequestTicks (0,TE04)
+[2808] 2016/03/09 16:05:47.936 SKQuoteLib_RequestTicks (0,TE06)
+[2808] 2016/03/09 16:05:47.940 SKQuoteLib_RequestTicks (0,TE09)
+[2808] 2016/03/09 16:05:47.941 SKQuoteLib_RequestTicks (0,TE12)
+[2808] 2016/03/09 16:05:47.942 SKQuoteLib_RequestTicks (0,TF00)
+[2808] 2016/03/09 16:05:47.946 SKQuoteLib_RequestTicks (0,TF03)
+[2808] 2016/03/09 16:05:47.949 SKQuoteLib_RequestTicks (0,TF04)
+[2808] 2016/03/09 16:05:47.951 SKQuoteLib_RequestTicks (0,TF06)
+[2808] 2016/03/09 16:05:47.955 SKQuoteLib_RequestTicks (0,TF09)
+[2808] 2016/03/09 16:05:47.959 SKQuoteLib_RequestTicks (0,TF12)
+[2808] 2016/03/09 16:06:47.386 Check Link Status 
+[2808] 2016/03/09 16:07:29.413 Check Link Status 
+[2808] 2016/03/09 16:08:29.413 Check Link Status 
+[2808] 2016/03/09 16:09:29.413 Check Link Status 
+[2808] 2016/03/09 16:10:29.413 Check Link Status 
+[2808] 2016/03/09 16:11:29.412 Check Link Status 
+[2808] 2016/03/09 16:12:29.411 Check Link Status 
+[2808] 2016/03/09 16:13:29.411 Check Link Status 
+[2808] 2016/03/09 16:14:29.413 Check Link Status 
+[2808] 2016/03/09 16:15:29.417 Check Link Status 
+[2808] 2016/03/09 16:16:29.414 Check Link Status 
+[2808] 2016/03/09 16:17:29.411 Check Link Status 
+[2808] 2016/03/09 16:18:29.412 Check Link Status 
+[2808] 2016/03/09 16:19:29.412 Check Link Status 
+[2808] 2016/03/09 16:20:29.412 Check Link Status 
+[2808] 2016/03/09 16:21:29.412 Check Link Status 
+[2808] 2016/03/09 16:22:29.413 Check Link Status 
+[2808] 2016/03/09 16:23:29.412 Check Link Status 
+[2808] 2016/03/09 16:24:29.413 Check Link Status 
+[2808] 2016/03/09 16:25:29.414 Check Link Status 
+[2808] 2016/03/09 16:26:29.413 Check Link Status 
+[2808] 2016/03/09 16:27:29.413 Check Link Status 
+[2808] 2016/03/09 16:28:29.413 Check Link Status 
+[2808] 2016/03/09 16:29:29.413 Check Link Status 
+[2808] 2016/03/09 16:30:29.412 Check Link Status 
+[2808] 2016/03/09 16:31:29.412 Check Link Status 
+[2808] 2016/03/09 16:32:29.412 Check Link Status 
+[2808] 2016/03/09 16:33:29.412 Check Link Status 
+[2808] 2016/03/09 16:34:29.414 Check Link Status 
+[2808] 2016/03/09 16:35:29.415 Check Link Status 
+[2808] 2016/03/09 16:36:29.412 Check Link Status 
+[2808] 2016/03/09 16:37:29.413 Check Link Status 
+[2808] 2016/03/09 16:38:29.412 Check Link Status 
+[2808] 2016/03/09 16:39:29.412 Check Link Status 
+[2808] 2016/03/09 16:40:40.105 Check Link Status 
+[2808] 2016/03/09 16:41:29.413 Check Link Status 
+[2808] 2016/03/09 16:42:29.446 Check Link Status 
+[2808] 2016/03/09 16:43:29.413 Check Link Status 
+[2808] 2016/03/09 16:44:31.864 Check Link Status 
+[2808] 2016/03/09 16:45:51.280 Check Link Status 
+[2808] 2016/03/09 16:46:29.414 Check Link Status 
+[2808] 2016/03/09 16:47:29.413 Check Link Status 
+[2808] 2016/03/09 16:48:29.414 Check Link Status 
+[2808] 2016/03/09 16:49:29.413 Check Link Status 
+[2808] 2016/03/09 16:50:29.430 Check Link Status 
+[2808] 2016/03/09 16:51:29.417 Check Link Status 
+[2808] 2016/03/09 16:52:29.413 Check Link Status 
+[2808] 2016/03/09 16:53:30.865 Check Link Status 
+[12804] 2016/03/09 17:14:05.804 API InitInstance 
+[12804] 2016/03/09 17:14:05.807 SKQuoteLib_Initialize ¡GB222875498
+[12804] 2016/03/09 17:14:05.808 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[12804] 2016/03/09 17:14:06.328 SKQuoteLib_Initialize  SUCCESS 
+[12804] 2016/03/09 17:14:06.349 SKQuoteLib_EnterMonitor IP¡Ginfo16.capital.com.tw
+[12804] 2016/03/09 17:14:06.351 SKQuoteLib_AttachConnectionCallBack 
+[12804] 2016/03/09 17:14:06.352 SKQuoteLib_AttachQuoteCallBack 
+[12804] 2016/03/09 17:14:06.352 SKQuoteLib_AttachBest5CallBack 
+[12804] 2016/03/09 17:14:06.902 SocketConnect Type¡G100  ErrorCode¡G0
+[12804] 2016/03/09 17:14:08.401 Stocks Ready
+[12804] 2016/03/09 17:14:25.299 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX03,TX04,TX06,TX09,TX12,TE00,TE03,TE04,TE06,TE09,TE12,TF00,TF03,TF04,TF06,TF09,TF12)
+[12804] 2016/03/09 17:14:25.300 Divide StockNo {TSEA}
+[12804] 2016/03/09 17:14:25.300 Add Basket MarketNo¡G0 StockIdx¡G10572
+[12804] 2016/03/09 17:14:25.301 Divide StockNo {TX00}
+[12804] 2016/03/09 17:14:25.301 Add Basket MarketNo¡G2 StockIdx¡G0
+[12804] 2016/03/09 17:14:25.302 Divide StockNo {TX03}
+[12804] 2016/03/09 17:14:25.302 Add Basket MarketNo¡G2 StockIdx¡G1
+[12804] 2016/03/09 17:14:25.302 Divide StockNo {TX04}
+[12804] 2016/03/09 17:14:25.303 Add Basket MarketNo¡G2 StockIdx¡G2
+[12804] 2016/03/09 17:14:25.304 Divide StockNo {TX06}
+[12804] 2016/03/09 17:14:25.304 Add Basket MarketNo¡G2 StockIdx¡G3
+[12804] 2016/03/09 17:14:25.305 Divide StockNo {TX09}
+[12804] 2016/03/09 17:14:25.305 Add Basket MarketNo¡G2 StockIdx¡G4
+[12804] 2016/03/09 17:14:25.305 Divide StockNo {TX12}
+[12804] 2016/03/09 17:14:25.306 Add Basket MarketNo¡G2 StockIdx¡G5
+[12804] 2016/03/09 17:14:25.306 Divide StockNo {TE00}
+[12804] 2016/03/09 17:14:25.307 Add Basket MarketNo¡G2 StockIdx¡G14
+[12804] 2016/03/09 17:14:25.307 Divide StockNo {TE03}
+[12804] 2016/03/09 17:14:25.308 Add Basket MarketNo¡G2 StockIdx¡G15
+[12804] 2016/03/09 17:14:25.308 Divide StockNo {TE04}
+[12804] 2016/03/09 17:14:25.309 Add Basket MarketNo¡G2 StockIdx¡G16
+[12804] 2016/03/09 17:14:25.309 Divide StockNo {TE06}
+[12804] 2016/03/09 17:14:25.310 Add Basket MarketNo¡G2 StockIdx¡G17
+[12804] 2016/03/09 17:14:25.310 Divide StockNo {TE09}
+[12804] 2016/03/09 17:14:25.311 Add Basket MarketNo¡G2 StockIdx¡G18
+[12804] 2016/03/09 17:14:25.311 Divide StockNo {TE12}
+[12804] 2016/03/09 17:14:25.312 Add Basket MarketNo¡G2 StockIdx¡G19
+[12804] 2016/03/09 17:14:25.312 Divide StockNo {TF00}
+[12804] 2016/03/09 17:14:25.313 Add Basket MarketNo¡G2 StockIdx¡G20
+[12804] 2016/03/09 17:14:25.313 Divide StockNo {TF03}
+[12804] 2016/03/09 17:14:25.313 Add Basket MarketNo¡G2 StockIdx¡G21
+[12804] 2016/03/09 17:14:25.314 Divide StockNo {TF04}
+[12804] 2016/03/09 17:14:25.314 Add Basket MarketNo¡G2 StockIdx¡G22
+[12804] 2016/03/09 17:14:25.315 Divide StockNo {TF06}
+[12804] 2016/03/09 17:14:25.315 Add Basket MarketNo¡G2 StockIdx¡G23
+[12804] 2016/03/09 17:14:25.316 Divide StockNo {TF09}
+[12804] 2016/03/09 17:14:25.316 Add Basket MarketNo¡G2 StockIdx¡G24
+[12804] 2016/03/09 17:14:25.317 Divide StockNo {TF12}
+[12804] 2016/03/09 17:14:25.317 Add Basket MarketNo¡G2 StockIdx¡G25
+[12804] 2016/03/09 17:14:25.317 SKQuoteLib_RequestStocks Page 1
+[12804] 2016/03/09 17:14:25.338 SKQuoteLib_RequestTicks (0,TSEA)
+[12804] 2016/03/09 17:14:25.341 SKQuoteLib_RequestTicks (0,TX00)
+[12804] 2016/03/09 17:14:25.343 SKQuoteLib_RequestTicks (0,TX03)
+[12804] 2016/03/09 17:14:25.346 SKQuoteLib_RequestTicks (0,TX04)
+[12804] 2016/03/09 17:14:25.350 SKQuoteLib_RequestTicks (0,TX06)
+[12804] 2016/03/09 17:14:25.352 SKQuoteLib_RequestTicks (0,TX09)
+[12804] 2016/03/09 17:14:25.357 SKQuoteLib_RequestTicks (0,TX12)
+[12804] 2016/03/09 17:14:25.361 SKQuoteLib_RequestTicks (0,TE00)
+[12804] 2016/03/09 17:14:25.362 SKQuoteLib_RequestTicks (0,TE03)
+[12804] 2016/03/09 17:14:25.366 SKQuoteLib_RequestTicks (0,TE04)
+[12804] 2016/03/09 17:14:25.369 SKQuoteLib_RequestTicks (0,TE06)
+[12804] 2016/03/09 17:14:25.371 SKQuoteLib_RequestTicks (0,TE09)
+[12804] 2016/03/09 17:14:25.375 SKQuoteLib_RequestTicks (0,TE12)
+[12804] 2016/03/09 17:14:25.380 SKQuoteLib_RequestTicks (0,TF00)
+[12804] 2016/03/09 17:14:25.382 SKQuoteLib_RequestTicks (0,TF03)
+[12804] 2016/03/09 17:14:25.387 SKQuoteLib_RequestTicks (0,TF04)
+[12804] 2016/03/09 17:14:25.391 SKQuoteLib_RequestTicks (0,TF06)
+[12804] 2016/03/09 17:14:25.393 SKQuoteLib_RequestTicks (0,TF09)
+[12804] 2016/03/09 17:14:25.397 SKQuoteLib_RequestTicks (0,TF12)
+[12804] 2016/03/09 17:15:06.899 Check Link Status 

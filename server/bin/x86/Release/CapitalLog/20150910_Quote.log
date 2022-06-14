@@ -1,0 +1,262 @@
+[3248] 2015/09/10 09:38:20.496 API InitInstance 
+[3248] 2015/09/10 09:38:20.502 SKQuoteLib_Initialize ¡GB222875498
+[3248] 2015/09/10 09:38:20.503 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[3248] 2015/09/10 09:38:22.454 SKQuoteLib_Initialize  SUCCESS 
+[3248] 2015/09/10 09:38:26.889 SKQuoteLib_EnterMonitor IP¡Ginfo10.capital.com.tw
+[3248] 2015/09/10 09:38:26.891 SKQuoteLib_AttachConnectionCallBack 
+[3248] 2015/09/10 09:38:26.892 SKQuoteLib_AttachQuoteCallBack 
+[3248] 2015/09/10 09:38:26.892 SKQuoteLib_AttachProductsReadyCallBack 
+[3248] 2015/09/10 09:38:31.670 SocketConnect Type¡G100  ErrorCode¡G0
+[3248] 2015/09/10 09:38:34.376 Stocks Ready
+[3248] 2015/09/10 09:38:34.377 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX09,TX10,TX12,TX03,TX06,TE00,TE09,TE10,TE12,TE03,TE06,TF00,TF09,TF10,TF12,TF03,TF06)
+[3248] 2015/09/10 09:38:34.378 Divide StockNo {TSEA}
+[3248] 2015/09/10 09:38:34.379 Add Basket MarketNo¡G0 StockIdx¡G12544
+[3248] 2015/09/10 09:38:34.379 Divide StockNo {TX00}
+[3248] 2015/09/10 09:38:34.380 Add Basket MarketNo¡G2 StockIdx¡G0
+[3248] 2015/09/10 09:38:34.380 Divide StockNo {TX09}
+[3248] 2015/09/10 09:38:34.381 Add Basket MarketNo¡G2 StockIdx¡G1
+[3248] 2015/09/10 09:38:34.381 Divide StockNo {TX10}
+[3248] 2015/09/10 09:38:34.382 Add Basket MarketNo¡G2 StockIdx¡G2
+[3248] 2015/09/10 09:38:34.382 Divide StockNo {TX12}
+[3248] 2015/09/10 09:38:34.383 Add Basket MarketNo¡G2 StockIdx¡G3
+[3248] 2015/09/10 09:38:34.383 Divide StockNo {TX03}
+[3248] 2015/09/10 09:38:34.383 Add Basket MarketNo¡G2 StockIdx¡G4
+[3248] 2015/09/10 09:38:34.384 Divide StockNo {TX06}
+[3248] 2015/09/10 09:38:34.384 Add Basket MarketNo¡G2 StockIdx¡G5
+[3248] 2015/09/10 09:38:34.385 Divide StockNo {TE00}
+[3248] 2015/09/10 09:38:34.385 Add Basket MarketNo¡G2 StockIdx¡G12
+[3248] 2015/09/10 09:38:34.386 Divide StockNo {TE09}
+[3248] 2015/09/10 09:38:34.386 Add Basket MarketNo¡G2 StockIdx¡G13
+[3248] 2015/09/10 09:38:34.387 Divide StockNo {TE10}
+[3248] 2015/09/10 09:38:34.387 Add Basket MarketNo¡G2 StockIdx¡G14
+[3248] 2015/09/10 09:38:34.388 Divide StockNo {TE12}
+[3248] 2015/09/10 09:38:34.388 Add Basket MarketNo¡G2 StockIdx¡G15
+[3248] 2015/09/10 09:38:34.389 Divide StockNo {TE03}
+[3248] 2015/09/10 09:38:34.389 Add Basket MarketNo¡G2 StockIdx¡G16
+[3248] 2015/09/10 09:38:34.390 Divide StockNo {TE06}
+[3248] 2015/09/10 09:38:34.390 Add Basket MarketNo¡G2 StockIdx¡G17
+[3248] 2015/09/10 09:38:34.391 Divide StockNo {TF00}
+[3248] 2015/09/10 09:38:34.391 Add Basket MarketNo¡G2 StockIdx¡G18
+[3248] 2015/09/10 09:38:34.392 Divide StockNo {TF09}
+[3248] 2015/09/10 09:38:34.392 Add Basket MarketNo¡G2 StockIdx¡G19
+[3248] 2015/09/10 09:38:34.393 Divide StockNo {TF10}
+[3248] 2015/09/10 09:38:34.393 Add Basket MarketNo¡G2 StockIdx¡G20
+[3248] 2015/09/10 09:38:34.394 Divide StockNo {TF12}
+[3248] 2015/09/10 09:38:34.394 Add Basket MarketNo¡G2 StockIdx¡G21
+[3248] 2015/09/10 09:38:34.395 Divide StockNo {TF03}
+[3248] 2015/09/10 09:38:34.395 Add Basket MarketNo¡G2 StockIdx¡G22
+[3248] 2015/09/10 09:38:34.396 Divide StockNo {TF06}
+[3248] 2015/09/10 09:38:34.396 Add Basket MarketNo¡G2 StockIdx¡G23
+[3248] 2015/09/10 09:38:34.397 SKQuoteLib_RequestStocks Page 1
+[3904] 2015/09/10 14:28:23.733 API InitInstance 
+[3904] 2015/09/10 14:28:23.745 SKQuoteLib_Initialize ¡GB222875498
+[3904] 2015/09/10 14:28:23.746 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[3904] 2015/09/10 14:28:25.299 SKQuoteLib_Initialize  SUCCESS 
+[3904] 2015/09/10 14:28:28.430 SKQuoteLib_EnterMonitor IP¡Ginfo8.capital.com.tw
+[3904] 2015/09/10 14:28:28.432 SKQuoteLib_AttachConnectionCallBack 
+[3904] 2015/09/10 14:28:28.433 SKQuoteLib_AttachQuoteCallBack 
+[3904] 2015/09/10 14:28:28.433 SKQuoteLib_AttachProductsReadyCallBack 
+[3904] 2015/09/10 14:28:33.110 SocketConnect Type¡G100  ErrorCode¡G0
+[3904] 2015/09/10 14:28:36.060 Stocks Ready
+[3904] 2015/09/10 14:28:36.061 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX09,TX10,TX12,TX03,TX06,TE00,TE09,TE10,TE12,TE03,TE06,TF00,TF09,TF10,TF12,TF03,TF06)
+[3904] 2015/09/10 14:28:36.063 Divide StockNo {TSEA}
+[3904] 2015/09/10 14:28:36.063 Add Basket MarketNo¡G0 StockIdx¡G12544
+[3904] 2015/09/10 14:28:36.064 Divide StockNo {TX00}
+[3904] 2015/09/10 14:28:36.064 Add Basket MarketNo¡G2 StockIdx¡G0
+[3904] 2015/09/10 14:28:36.065 Divide StockNo {TX09}
+[3904] 2015/09/10 14:28:36.066 Add Basket MarketNo¡G2 StockIdx¡G1
+[3904] 2015/09/10 14:28:36.066 Divide StockNo {TX10}
+[3904] 2015/09/10 14:28:36.067 Add Basket MarketNo¡G2 StockIdx¡G2
+[3904] 2015/09/10 14:28:36.067 Divide StockNo {TX12}
+[3904] 2015/09/10 14:28:36.068 Add Basket MarketNo¡G2 StockIdx¡G3
+[3904] 2015/09/10 14:28:36.068 Divide StockNo {TX03}
+[3904] 2015/09/10 14:28:36.069 Add Basket MarketNo¡G2 StockIdx¡G4
+[3904] 2015/09/10 14:28:36.069 Divide StockNo {TX06}
+[3904] 2015/09/10 14:28:36.070 Add Basket MarketNo¡G2 StockIdx¡G5
+[3904] 2015/09/10 14:28:36.070 Divide StockNo {TE00}
+[3904] 2015/09/10 14:28:36.071 Add Basket MarketNo¡G2 StockIdx¡G12
+[3904] 2015/09/10 14:28:36.071 Divide StockNo {TE09}
+[3904] 2015/09/10 14:28:36.072 Add Basket MarketNo¡G2 StockIdx¡G13
+[3904] 2015/09/10 14:28:36.072 Divide StockNo {TE10}
+[3904] 2015/09/10 14:28:36.073 Add Basket MarketNo¡G2 StockIdx¡G14
+[3904] 2015/09/10 14:28:36.074 Divide StockNo {TE12}
+[3904] 2015/09/10 14:28:36.074 Add Basket MarketNo¡G2 StockIdx¡G15
+[3904] 2015/09/10 14:28:36.075 Divide StockNo {TE03}
+[3904] 2015/09/10 14:28:36.076 Add Basket MarketNo¡G2 StockIdx¡G16
+[3904] 2015/09/10 14:28:36.076 Divide StockNo {TE06}
+[3904] 2015/09/10 14:28:36.077 Add Basket MarketNo¡G2 StockIdx¡G17
+[3904] 2015/09/10 14:28:36.077 Divide StockNo {TF00}
+[3904] 2015/09/10 14:28:36.078 Add Basket MarketNo¡G2 StockIdx¡G18
+[3904] 2015/09/10 14:28:36.078 Divide StockNo {TF09}
+[3904] 2015/09/10 14:28:36.079 Add Basket MarketNo¡G2 StockIdx¡G19
+[3904] 2015/09/10 14:28:36.079 Divide StockNo {TF10}
+[3904] 2015/09/10 14:28:36.080 Add Basket MarketNo¡G2 StockIdx¡G20
+[3904] 2015/09/10 14:28:36.080 Divide StockNo {TF12}
+[3904] 2015/09/10 14:28:36.081 Add Basket MarketNo¡G2 StockIdx¡G21
+[3904] 2015/09/10 14:28:36.081 Divide StockNo {TF03}
+[3904] 2015/09/10 14:28:36.097 Add Basket MarketNo¡G2 StockIdx¡G22
+[3904] 2015/09/10 14:28:36.098 Divide StockNo {TF06}
+[3904] 2015/09/10 14:28:36.098 Add Basket MarketNo¡G2 StockIdx¡G23
+[3904] 2015/09/10 14:28:36.099 SKQuoteLib_RequestStocks Page 1
+[5368] 2015/09/10 14:31:17.127 API InitInstance 
+[5368] 2015/09/10 14:31:17.136 SKQuoteLib_Initialize ¡GB222875498
+[5368] 2015/09/10 14:31:17.136 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[5368] 2015/09/10 14:31:18.096 SKQuoteLib_Initialize  SUCCESS 
+[5368] 2015/09/10 14:31:21.200 SKQuoteLib_EnterMonitor IP¡Ginfo20.capital.com.tw
+[5368] 2015/09/10 14:31:21.201 SKQuoteLib_AttachConnectionCallBack 
+[5368] 2015/09/10 14:31:21.202 SKQuoteLib_AttachQuoteCallBack 
+[5368] 2015/09/10 14:31:21.203 SKQuoteLib_AttachProductsReadyCallBack 
+[5368] 2015/09/10 14:31:25.469 SocketConnect Type¡G100  ErrorCode¡G0
+[5368] 2015/09/10 14:31:28.468 Stocks Ready
+[5368] 2015/09/10 14:31:28.469 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX09,TX10,TX12,TX03,TX06,TE00,TE09,TE10,TE12,TE03,TE06,TF00,TF09,TF10,TF12,TF03,TF06)
+[5368] 2015/09/10 14:31:28.470 Divide StockNo {TSEA}
+[5368] 2015/09/10 14:31:28.471 Add Basket MarketNo¡G0 StockIdx¡G12544
+[5368] 2015/09/10 14:31:28.471 Divide StockNo {TX00}
+[5368] 2015/09/10 14:31:28.472 Add Basket MarketNo¡G2 StockIdx¡G0
+[5368] 2015/09/10 14:31:28.472 Divide StockNo {TX09}
+[5368] 2015/09/10 14:31:28.473 Add Basket MarketNo¡G2 StockIdx¡G1
+[5368] 2015/09/10 14:31:28.473 Divide StockNo {TX10}
+[5368] 2015/09/10 14:31:28.474 Add Basket MarketNo¡G2 StockIdx¡G2
+[5368] 2015/09/10 14:31:28.474 Divide StockNo {TX12}
+[5368] 2015/09/10 14:31:28.475 Add Basket MarketNo¡G2 StockIdx¡G3
+[5368] 2015/09/10 14:31:28.475 Divide StockNo {TX03}
+[5368] 2015/09/10 14:31:28.476 Add Basket MarketNo¡G2 StockIdx¡G4
+[5368] 2015/09/10 14:31:28.476 Divide StockNo {TX06}
+[5368] 2015/09/10 14:31:28.476 Add Basket MarketNo¡G2 StockIdx¡G5
+[5368] 2015/09/10 14:31:28.477 Divide StockNo {TE00}
+[5368] 2015/09/10 14:31:28.477 Add Basket MarketNo¡G2 StockIdx¡G12
+[5368] 2015/09/10 14:31:28.478 Divide StockNo {TE09}
+[5368] 2015/09/10 14:31:28.478 Add Basket MarketNo¡G2 StockIdx¡G13
+[5368] 2015/09/10 14:31:28.479 Divide StockNo {TE10}
+[5368] 2015/09/10 14:31:28.479 Add Basket MarketNo¡G2 StockIdx¡G14
+[5368] 2015/09/10 14:31:28.480 Divide StockNo {TE12}
+[5368] 2015/09/10 14:31:28.480 Add Basket MarketNo¡G2 StockIdx¡G15
+[5368] 2015/09/10 14:31:28.481 Divide StockNo {TE03}
+[5368] 2015/09/10 14:31:28.481 Add Basket MarketNo¡G2 StockIdx¡G16
+[5368] 2015/09/10 14:31:28.482 Divide StockNo {TE06}
+[5368] 2015/09/10 14:31:28.482 Add Basket MarketNo¡G2 StockIdx¡G17
+[5368] 2015/09/10 14:31:28.483 Divide StockNo {TF00}
+[5368] 2015/09/10 14:31:28.483 Add Basket MarketNo¡G2 StockIdx¡G18
+[5368] 2015/09/10 14:31:28.484 Divide StockNo {TF09}
+[5368] 2015/09/10 14:31:28.484 Add Basket MarketNo¡G2 StockIdx¡G19
+[5368] 2015/09/10 14:31:28.485 Divide StockNo {TF10}
+[5368] 2015/09/10 14:31:28.485 Add Basket MarketNo¡G2 StockIdx¡G20
+[5368] 2015/09/10 14:31:28.486 Divide StockNo {TF12}
+[5368] 2015/09/10 14:31:28.486 Add Basket MarketNo¡G2 StockIdx¡G21
+[5368] 2015/09/10 14:31:28.487 Divide StockNo {TF03}
+[5368] 2015/09/10 14:31:28.487 Add Basket MarketNo¡G2 StockIdx¡G22
+[5368] 2015/09/10 14:31:28.487 Divide StockNo {TF06}
+[5368] 2015/09/10 14:31:28.488 Add Basket MarketNo¡G2 StockIdx¡G23
+[5368] 2015/09/10 14:31:28.488 SKQuoteLib_RequestStocks Page 1
+[5592] 2015/09/10 14:31:51.477 API InitInstance 
+[5592] 2015/09/10 14:31:51.479 SKQuoteLib_Initialize ¡GB222875498
+[5592] 2015/09/10 14:31:51.480 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[5592] 2015/09/10 14:31:52.280 SKQuoteLib_Initialize  SUCCESS 
+[5592] 2015/09/10 14:31:55.286 SKQuoteLib_EnterMonitor IP¡Ginfo20.capital.com.tw
+[5592] 2015/09/10 14:31:55.287 SKQuoteLib_AttachConnectionCallBack 
+[5592] 2015/09/10 14:31:55.288 SKQuoteLib_AttachQuoteCallBack 
+[5592] 2015/09/10 14:31:55.289 SKQuoteLib_AttachProductsReadyCallBack 
+[5592] 2015/09/10 14:31:59.190 SocketConnect Type¡G100  ErrorCode¡G0
+[5592] 2015/09/10 14:32:02.083 Stocks Ready
+[5592] 2015/09/10 14:32:02.084 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX09,TX10,TX12,TX03,TX06,TE00,TE09,TE10,TE12,TE03,TE06,TF00,TF09,TF10,TF12,TF03,TF06)
+[5592] 2015/09/10 14:32:02.085 Divide StockNo {TSEA}
+[5592] 2015/09/10 14:32:02.085 Add Basket MarketNo¡G0 StockIdx¡G12544
+[5592] 2015/09/10 14:32:02.086 Divide StockNo {TX00}
+[5592] 2015/09/10 14:32:02.086 Add Basket MarketNo¡G2 StockIdx¡G0
+[5592] 2015/09/10 14:32:02.087 Divide StockNo {TX09}
+[5592] 2015/09/10 14:32:02.087 Add Basket MarketNo¡G2 StockIdx¡G1
+[5592] 2015/09/10 14:32:02.088 Divide StockNo {TX10}
+[5592] 2015/09/10 14:32:02.088 Add Basket MarketNo¡G2 StockIdx¡G2
+[5592] 2015/09/10 14:32:02.089 Divide StockNo {TX12}
+[5592] 2015/09/10 14:32:02.089 Add Basket MarketNo¡G2 StockIdx¡G3
+[5592] 2015/09/10 14:32:02.090 Divide StockNo {TX03}
+[5592] 2015/09/10 14:32:02.090 Add Basket MarketNo¡G2 StockIdx¡G4
+[5592] 2015/09/10 14:32:02.091 Divide StockNo {TX06}
+[5592] 2015/09/10 14:32:02.091 Add Basket MarketNo¡G2 StockIdx¡G5
+[5592] 2015/09/10 14:32:02.092 Divide StockNo {TE00}
+[5592] 2015/09/10 14:32:02.092 Add Basket MarketNo¡G2 StockIdx¡G12
+[5592] 2015/09/10 14:32:02.093 Divide StockNo {TE09}
+[5592] 2015/09/10 14:32:02.093 Add Basket MarketNo¡G2 StockIdx¡G13
+[5592] 2015/09/10 14:32:02.094 Divide StockNo {TE10}
+[5592] 2015/09/10 14:32:02.094 Add Basket MarketNo¡G2 StockIdx¡G14
+[5592] 2015/09/10 14:32:02.095 Divide StockNo {TE12}
+[5592] 2015/09/10 14:32:02.095 Add Basket MarketNo¡G2 StockIdx¡G15
+[5592] 2015/09/10 14:32:02.096 Divide StockNo {TE03}
+[5592] 2015/09/10 14:32:02.096 Add Basket MarketNo¡G2 StockIdx¡G16
+[5592] 2015/09/10 14:32:02.097 Divide StockNo {TE06}
+[5592] 2015/09/10 14:32:02.098 Add Basket MarketNo¡G2 StockIdx¡G17
+[5592] 2015/09/10 14:32:02.098 Divide StockNo {TF00}
+[5592] 2015/09/10 14:32:02.099 Add Basket MarketNo¡G2 StockIdx¡G18
+[5592] 2015/09/10 14:32:02.099 Divide StockNo {TF09}
+[5592] 2015/09/10 14:32:02.100 Add Basket MarketNo¡G2 StockIdx¡G19
+[5592] 2015/09/10 14:32:02.101 Divide StockNo {TF10}
+[5592] 2015/09/10 14:32:02.101 Add Basket MarketNo¡G2 StockIdx¡G20
+[5592] 2015/09/10 14:32:02.102 Divide StockNo {TF12}
+[5592] 2015/09/10 14:32:02.102 Add Basket MarketNo¡G2 StockIdx¡G21
+[5592] 2015/09/10 14:32:02.103 Divide StockNo {TF03}
+[5592] 2015/09/10 14:32:02.103 Add Basket MarketNo¡G2 StockIdx¡G22
+[5592] 2015/09/10 14:32:02.104 Divide StockNo {TF06}
+[5592] 2015/09/10 14:32:02.104 Add Basket MarketNo¡G2 StockIdx¡G23
+[5592] 2015/09/10 14:32:02.104 SKQuoteLib_RequestStocks Page 1
+[1968] 2015/09/10 14:34:16.930 API InitInstance 
+[1968] 2015/09/10 14:34:16.932 SKQuoteLib_Initialize ¡GB222875498
+[1968] 2015/09/10 14:34:16.933 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[1968] 2015/09/10 14:34:17.729 SKQuoteLib_Initialize  SUCCESS 
+[1968] 2015/09/10 14:34:20.852 SKQuoteLib_EnterMonitor IP¡Ginfo16.capital.com.tw
+[1968] 2015/09/10 14:34:20.853 SKQuoteLib_AttachConnectionCallBack 
+[1968] 2015/09/10 14:34:20.854 SKQuoteLib_AttachQuoteCallBack 
+[1968] 2015/09/10 14:34:20.855 SKQuoteLib_AttachProductsReadyCallBack 
+[1968] 2015/09/10 14:34:24.615 SocketConnect Type¡G100  ErrorCode¡G0
+[1968] 2015/09/10 14:34:24.622 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:27.533 Stocks Ready
+[1968] 2015/09/10 14:34:27.534 SKQuoteLib_RequestStocks (1,TSEA,TX00,TX09,TX10,TX12,TX03,TX06,TE00,TE09,TE10,TE12,TE03,TE06,TF00,TF09,TF10,TF12,TF03,TF06)
+[1968] 2015/09/10 14:34:27.536 Divide StockNo {TSEA}
+[1968] 2015/09/10 14:34:27.537 Add Basket MarketNo¡G0 StockIdx¡G12544
+[1968] 2015/09/10 14:34:27.538 Divide StockNo {TX00}
+[1968] 2015/09/10 14:34:27.538 Add Basket MarketNo¡G2 StockIdx¡G0
+[1968] 2015/09/10 14:34:27.539 Divide StockNo {TX09}
+[1968] 2015/09/10 14:34:27.539 Add Basket MarketNo¡G2 StockIdx¡G1
+[1968] 2015/09/10 14:34:27.540 Divide StockNo {TX10}
+[1968] 2015/09/10 14:34:27.540 Add Basket MarketNo¡G2 StockIdx¡G2
+[1968] 2015/09/10 14:34:27.541 Divide StockNo {TX12}
+[1968] 2015/09/10 14:34:27.541 Add Basket MarketNo¡G2 StockIdx¡G3
+[1968] 2015/09/10 14:34:27.542 Divide StockNo {TX03}
+[1968] 2015/09/10 14:34:27.542 Add Basket MarketNo¡G2 StockIdx¡G4
+[1968] 2015/09/10 14:34:27.543 Divide StockNo {TX06}
+[1968] 2015/09/10 14:34:27.543 Add Basket MarketNo¡G2 StockIdx¡G5
+[1968] 2015/09/10 14:34:27.544 Divide StockNo {TE00}
+[1968] 2015/09/10 14:34:27.544 Add Basket MarketNo¡G2 StockIdx¡G12
+[1968] 2015/09/10 14:34:27.545 Divide StockNo {TE09}
+[1968] 2015/09/10 14:34:27.545 Add Basket MarketNo¡G2 StockIdx¡G13
+[1968] 2015/09/10 14:34:27.546 Divide StockNo {TE10}
+[1968] 2015/09/10 14:34:27.546 Add Basket MarketNo¡G2 StockIdx¡G14
+[1968] 2015/09/10 14:34:27.547 Divide StockNo {TE12}
+[1968] 2015/09/10 14:34:27.548 Add Basket MarketNo¡G2 StockIdx¡G15
+[1968] 2015/09/10 14:34:27.548 Divide StockNo {TE03}
+[1968] 2015/09/10 14:34:27.549 Add Basket MarketNo¡G2 StockIdx¡G16
+[1968] 2015/09/10 14:34:27.549 Divide StockNo {TE06}
+[1968] 2015/09/10 14:34:27.550 Add Basket MarketNo¡G2 StockIdx¡G17
+[1968] 2015/09/10 14:34:27.550 Divide StockNo {TF00}
+[1968] 2015/09/10 14:34:27.550 Add Basket MarketNo¡G2 StockIdx¡G18
+[1968] 2015/09/10 14:34:27.551 Divide StockNo {TF09}
+[1968] 2015/09/10 14:34:27.552 Add Basket MarketNo¡G2 StockIdx¡G19
+[1968] 2015/09/10 14:34:27.552 Divide StockNo {TF10}
+[1968] 2015/09/10 14:34:27.553 Add Basket MarketNo¡G2 StockIdx¡G20
+[1968] 2015/09/10 14:34:27.553 Divide StockNo {TF12}
+[1968] 2015/09/10 14:34:27.554 Add Basket MarketNo¡G2 StockIdx¡G21
+[1968] 2015/09/10 14:34:27.554 Divide StockNo {TF03}
+[1968] 2015/09/10 14:34:27.555 Add Basket MarketNo¡G2 StockIdx¡G22
+[1968] 2015/09/10 14:34:27.555 Divide StockNo {TF06}
+[1968] 2015/09/10 14:34:27.556 Add Basket MarketNo¡G2 StockIdx¡G23
+[1968] 2015/09/10 14:34:27.556 SKQuoteLib_RequestStocks Page 1
+[1968] 2015/09/10 14:34:28.634 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:28.839 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:29.852 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:30.867 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:31.880 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:32.895 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:33.909 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:34.922 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:35.937 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:36.952 SKQuoteLib_GetServerTime ¡G
+[1968] 2015/09/10 14:34:37.965 SKQuoteLib_GetServerTime ¡G

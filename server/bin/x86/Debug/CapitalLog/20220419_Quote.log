@@ -1,0 +1,11 @@
+[22540] 2022/04/19 01:50:50.002 API InitInstance 
+[22540] 2022/04/19 01:50:50.003 SKQuoteLib_Initialize ¡GB222875498
+[22540] 2022/04/19 01:50:50.004 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[22540] 2022/04/19 01:50:50.110 SKQuoteLib_Initialize ¡Ghttps://order3.capital.com.tw/
+[5072] 2022/04/19 01:51:51.385 API InitInstance 
+[5072] 2022/04/19 01:51:51.386 SKQuoteLib_Initialize ¡GB222875498
+[5072] 2022/04/19 01:51:51.386 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[5072] 2022/04/19 01:51:51.485 SKQuoteLib_Initialize ¡Ghttps://order3.capital.com.tw/
+[5072] 2022/04/19 01:52:37.148 SKQuoteLib_Initialize ¡GB222875498
+[5072] 2022/04/19 01:52:37.148 SKQuoteLib_Initialize ¡Ghttps://order2.capital.com.tw/
+[5072] 2022/04/19 01:52:37.207 SKQuoteLib_Initialize ¡Ghttps://order3.capital.com.tw/

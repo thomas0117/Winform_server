@@ -1,0 +1,14 @@
+[6252] 2022/04/16 22:30:36.267 API InitInstance 
+[6252] 2022/04/16 22:30:36.268 SKOSQuoteLib_Initialize  ID¡GB222875498
+[6252] 2022/04/16 22:30:36.269 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[6252] 2022/04/16 22:30:36.308 SKOSQuoteLib_Initialize  Server¡Ghttps://order3.capital.com.tw/
+[6252] 2022/04/16 22:30:36.420 SKOSQuoteLib_AttachConnectCallBack   SK_ERROR_INITIALIZE_FAIL 
+[6252] 2022/04/16 22:30:36.420 SKOSQuoteLib_AttachQuoteCallBack   SK_ERROR_INITIALIZE_FAIL 
+[6252] 2022/04/16 22:30:36.421 SKOSQuoteLib_AttachBest5CallBack   SK_ERROR_INITIALIZE_FAIL 
+[1648] 2022/04/16 22:46:37.535 API InitInstance 
+[1648] 2022/04/16 22:46:37.536 SKOSQuoteLib_Initialize  ID¡GB222875498
+[1648] 2022/04/16 22:46:37.536 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[1648] 2022/04/16 22:46:37.572 SKOSQuoteLib_Initialize  Server¡Ghttps://order3.capital.com.tw/
+[1648] 2022/04/16 22:46:37.693 SKOSQuoteLib_AttachConnectCallBack   SK_ERROR_INITIALIZE_FAIL 
+[1648] 2022/04/16 22:46:37.694 SKOSQuoteLib_AttachQuoteCallBack   SK_ERROR_INITIALIZE_FAIL 
+[1648] 2022/04/16 22:46:37.694 SKOSQuoteLib_AttachBest5CallBack   SK_ERROR_INITIALIZE_FAIL 
